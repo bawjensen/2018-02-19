@@ -1,0 +1,9665 @@
+{
+  "nodes": [
+    {
+      "id": "alex"
+    },
+    {
+      "id": "jessie"
+    },
+    {
+      "id": "pchai"
+    },
+    {
+      "id": "hli"
+    },
+    {
+      "id": "jmikkola"
+    },
+    {
+      "id": "georgeashworth"
+    },
+    {
+      "id": "sumit"
+    },
+    {
+      "id": "nmcquay"
+    },
+    {
+      "id": "bryan"
+    },
+    {
+      "id": "tom"
+    },
+    {
+      "id": "alee"
+    },
+    {
+      "id": "lboyer"
+    },
+    {
+      "id": "richard"
+    },
+    {
+      "id": "awong"
+    },
+    {
+      "id": "unzi"
+    },
+    {
+      "id": "chrisb"
+    },
+    {
+      "id": "hsiao"
+    },
+    {
+      "id": "kazu"
+    },
+    {
+      "id": "efujimoto"
+    },
+    {
+      "id": "tpan"
+    },
+    {
+      "id": "dcapo"
+    },
+    {
+      "id": "tim"
+    },
+    {
+      "id": "tongyun"
+    },
+    {
+      "id": "yifei"
+    },
+    {
+      "id": "jorge"
+    },
+    {
+      "id": "blee"
+    },
+    {
+      "id": "sai"
+    },
+    {
+      "id": "renal"
+    },
+    {
+      "id": "maddie"
+    },
+    {
+      "id": "trotter"
+    },
+    {
+      "id": "alexcheng"
+    },
+    {
+      "id": "jinjlu"
+    },
+    {
+      "id": "tracy"
+    },
+    {
+      "id": "lingduo.kong"
+    },
+    {
+      "id": "james.johnston"
+    },
+    {
+      "id": "markmiro"
+    },
+    {
+      "id": "johnkim"
+    },
+    {
+      "id": "tmeagher"
+    },
+    {
+      "id": "glen"
+    },
+    {
+      "id": "banderson"
+    },
+    {
+      "id": "nicolekg"
+    },
+    {
+      "id": "yi"
+    },
+    {
+      "id": "long"
+    },
+    {
+      "id": "hao89"
+    },
+    {
+      "id": "jaywang"
+    },
+    {
+      "id": "vduong"
+    },
+    {
+      "id": "jasonk"
+    },
+    {
+      "id": "senseiurata"
+    },
+    {
+      "id": "giles"
+    },
+    {
+      "id": "yeming"
+    },
+    {
+      "id": "sku"
+    },
+    {
+      "id": "dkamalov"
+    },
+    {
+      "id": "andrewlam"
+    },
+    {
+      "id": "vickie"
+    },
+    {
+      "id": "jtsay"
+    },
+    {
+      "id": "neha"
+    },
+    {
+      "id": "arjun"
+    },
+    {
+      "id": "evan"
+    },
+    {
+      "id": "vincent"
+    },
+    {
+      "id": "dylan"
+    },
+    {
+      "id": "dli"
+    },
+    {
+      "id": "qlyu"
+    },
+    {
+      "id": "eee"
+    },
+    {
+      "id": "llin"
+    },
+    {
+      "id": "doconnor"
+    },
+    {
+      "id": "xzhang"
+    },
+    {
+      "id": "peter"
+    },
+    {
+      "id": "linpengl"
+    },
+    {
+      "id": "cheston"
+    },
+    {
+      "id": "asekine"
+    },
+    {
+      "id": "venky"
+    },
+    {
+      "id": "jackson"
+    },
+    {
+      "id": "rich"
+    },
+    {
+      "id": "hao"
+    },
+    {
+      "id": "mscheifer"
+    },
+    {
+      "id": "tep"
+    },
+    {
+      "id": "bharadwaj"
+    },
+    {
+      "id": "kevinb"
+    },
+    {
+      "id": "kamal"
+    },
+    {
+      "id": "preetam"
+    },
+    {
+      "id": "liyuanh"
+    },
+    {
+      "id": "weikang"
+    },
+    {
+      "id": "leo"
+    },
+    {
+      "id": "jsokcevic"
+    },
+    {
+      "id": "wli"
+    },
+    {
+      "id": "dando"
+    },
+    {
+      "id": "mattbower"
+    },
+    {
+      "id": "xin"
+    },
+    {
+      "id": "rpearl"
+    },
+    {
+      "id": "zhaotong"
+    },
+    {
+      "id": "swati"
+    },
+    {
+      "id": "nate"
+    },
+    {
+      "id": "qchang"
+    },
+    {
+      "id": "denys"
+    },
+    {
+      "id": "hanjie"
+    },
+    {
+      "id": "omar"
+    },
+    {
+      "id": "santi"
+    },
+    {
+      "id": "vikram"
+    },
+    {
+      "id": "droth"
+    },
+    {
+      "id": "scottasoutherland"
+    },
+    {
+      "id": "johnny"
+    },
+    {
+      "id": "aglick"
+    },
+    {
+      "id": "marianosimone"
+    },
+    {
+      "id": "cameron"
+    },
+    {
+      "id": "heidy"
+    },
+    {
+      "id": "lgong"
+    },
+    {
+      "id": "fengnan"
+    },
+    {
+      "id": "carolina"
+    },
+    {
+      "id": "mfa"
+    },
+    {
+      "id": "rkolluri"
+    },
+    {
+      "id": "sherring"
+    },
+    {
+      "id": "sding"
+    },
+    {
+      "id": "xfei"
+    },
+    {
+      "id": "felipe"
+    },
+    {
+      "id": "tejal"
+    },
+    {
+      "id": "jma"
+    },
+    {
+      "id": "hpanchal"
+    },
+    {
+      "id": "sethk"
+    },
+    {
+      "id": "sagnik"
+    },
+    {
+      "id": "flavius"
+    },
+    {
+      "id": "ibabushkin"
+    },
+    {
+      "id": "carolshi"
+    },
+    {
+      "id": "xing"
+    },
+    {
+      "id": "dstenmark"
+    },
+    {
+      "id": "efe"
+    },
+    {
+      "id": "cpak"
+    },
+    {
+      "id": "stonezhong"
+    },
+    {
+      "id": "tcao"
+    },
+    {
+      "id": "serhiy"
+    },
+    {
+      "id": "zizheng"
+    },
+    {
+      "id": "carter"
+    },
+    {
+      "id": "jwu"
+    },
+    {
+      "id": "gpantazis"
+    },
+    {
+      "id": "tli"
+    },
+    {
+      "id": "vicliu"
+    },
+    {
+      "id": "jeremye"
+    },
+    {
+      "id": "wpeng"
+    },
+    {
+      "id": "ccornelis"
+    },
+    {
+      "id": "bknight"
+    },
+    {
+      "id": "tgnourse"
+    },
+    {
+      "id": "ford"
+    },
+    {
+      "id": "hzeng"
+    },
+    {
+      "id": "ticarter"
+    },
+    {
+      "id": "kelvsyc"
+    },
+    {
+      "id": "fkam"
+    },
+    {
+      "id": "mschaaf"
+    },
+    {
+      "id": "mdu"
+    },
+    {
+      "id": "jones"
+    },
+    {
+      "id": "tommy"
+    },
+    {
+      "id": "wzhang"
+    },
+    {
+      "id": "slin"
+    },
+    {
+      "id": "alexwice"
+    },
+    {
+      "id": "ileitch"
+    },
+    {
+      "id": "glavelle"
+    },
+    {
+      "id": "yinan"
+    },
+    {
+      "id": "bjensen"
+    },
+    {
+      "id": "kthomas"
+    },
+    {
+      "id": "rvp"
+    },
+    {
+      "id": "jiang"
+    },
+    {
+      "id": "rgonzalez"
+    },
+    {
+      "id": "nshetty"
+    },
+    {
+      "id": "zim"
+    },
+    {
+      "id": "ikhavkin"
+    },
+    {
+      "id": "walter"
+    },
+    {
+      "id": "jkirk"
+    },
+    {
+      "id": "seamus"
+    },
+    {
+      "id": "chris"
+    },
+    {
+      "id": "eric"
+    }
+  ],
+  "links": [
+    {
+      "source": "alex",
+      "target": "jessie",
+      "value": 15
+    },
+    {
+      "source": "jessie",
+      "target": "pchai",
+      "value": 224
+    },
+    {
+      "source": "hli",
+      "target": "jmikkola",
+      "value": 184
+    },
+    {
+      "source": "georgeashworth",
+      "target": "sumit",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "nmcquay",
+      "value": 138
+    },
+    {
+      "source": "bryan",
+      "target": "tom",
+      "value": 9
+    },
+    {
+      "source": "alee",
+      "target": "alex",
+      "value": 5
+    },
+    {
+      "source": "alee",
+      "target": "jmikkola",
+      "value": 5
+    },
+    {
+      "source": "alee",
+      "target": "lboyer",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "richard",
+      "value": 190
+    },
+    {
+      "source": "awong",
+      "target": "unzi",
+      "value": 3
+    },
+    {
+      "source": "chrisb",
+      "target": "hli",
+      "value": 13
+    },
+    {
+      "source": "alee",
+      "target": "hsiao",
+      "value": 60
+    },
+    {
+      "source": "kazu",
+      "target": "unzi",
+      "value": 31
+    },
+    {
+      "source": "efujimoto",
+      "target": "tpan",
+      "value": 45
+    },
+    {
+      "source": "bryan",
+      "target": "dcapo",
+      "value": 71
+    },
+    {
+      "source": "bryan",
+      "target": "tim",
+      "value": 100
+    },
+    {
+      "source": "tongyun",
+      "target": "yifei",
+      "value": 39
+    },
+    {
+      "source": "jorge",
+      "target": "yifei",
+      "value": 48
+    },
+    {
+      "source": "blee",
+      "target": "georgeashworth",
+      "value": 26
+    },
+    {
+      "source": "bryan",
+      "target": "sai",
+      "value": 8
+    },
+    {
+      "source": "nmcquay",
+      "target": "sai",
+      "value": 24
+    },
+    {
+      "source": "hsiao",
+      "target": "renal",
+      "value": 48
+    },
+    {
+      "source": "hsiao",
+      "target": "tim",
+      "value": 89
+    },
+    {
+      "source": "dcapo",
+      "target": "tim",
+      "value": 215
+    },
+    {
+      "source": "maddie",
+      "target": "trotter",
+      "value": 3
+    },
+    {
+      "source": "alexcheng",
+      "target": "bryan",
+      "value": 56
+    },
+    {
+      "source": "jinjlu",
+      "target": "tracy",
+      "value": 10
+    },
+    {
+      "source": "jmikkola",
+      "target": "lingduo.kong",
+      "value": 73
+    },
+    {
+      "source": "james.johnston",
+      "target": "jmikkola",
+      "value": 77
+    },
+    {
+      "source": "markmiro",
+      "target": "tim",
+      "value": 20
+    },
+    {
+      "source": "jessie",
+      "target": "jorge",
+      "value": 6
+    },
+    {
+      "source": "trotter",
+      "target": "trotter",
+      "value": 3
+    },
+    {
+      "source": "johnkim",
+      "target": "tim",
+      "value": 21
+    },
+    {
+      "source": "dcapo",
+      "target": "johnkim",
+      "value": 19
+    },
+    {
+      "source": "alex",
+      "target": "tmeagher",
+      "value": 26
+    },
+    {
+      "source": "jmikkola",
+      "target": "tmeagher",
+      "value": 22
+    },
+    {
+      "source": "glen",
+      "target": "tmeagher",
+      "value": 53
+    },
+    {
+      "source": "banderson",
+      "target": "nicolekg",
+      "value": 17
+    },
+    {
+      "source": "bryan",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "long",
+      "target": "unzi",
+      "value": 8
+    },
+    {
+      "source": "hao89",
+      "target": "jaywang",
+      "value": 6
+    },
+    {
+      "source": "hao89",
+      "target": "vduong",
+      "value": 7
+    },
+    {
+      "source": "jessie",
+      "target": "maddie",
+      "value": 8
+    },
+    {
+      "source": "jinjlu",
+      "target": "jinjlu",
+      "value": 14
+    },
+    {
+      "source": "alex",
+      "target": "jinjlu",
+      "value": 11
+    },
+    {
+      "source": "bryan",
+      "target": "bryan",
+      "value": 93
+    },
+    {
+      "source": "alex",
+      "target": "bryan",
+      "value": 78
+    },
+    {
+      "source": "hli",
+      "target": "jasonk",
+      "value": 109
+    },
+    {
+      "source": "senseiurata",
+      "target": "unzi",
+      "value": 8
+    },
+    {
+      "source": "alexcheng",
+      "target": "senseiurata",
+      "value": 7
+    },
+    {
+      "source": "bryan",
+      "target": "senseiurata",
+      "value": 7
+    },
+    {
+      "source": "giles",
+      "target": "senseiurata",
+      "value": 3
+    },
+    {
+      "source": "maddie",
+      "target": "senseiurata",
+      "value": 10
+    },
+    {
+      "source": "jinjlu",
+      "target": "yeming",
+      "value": 12
+    },
+    {
+      "source": "alex",
+      "target": "trotter",
+      "value": 9
+    },
+    {
+      "source": "bryan",
+      "target": "giles",
+      "value": 481
+    },
+    {
+      "source": "lboyer",
+      "target": "sku",
+      "value": 34
+    },
+    {
+      "source": "richard",
+      "target": "tmeagher",
+      "value": 4
+    },
+    {
+      "source": "dcapo",
+      "target": "hsiao",
+      "value": 185
+    },
+    {
+      "source": "alex",
+      "target": "dkamalov",
+      "value": 7
+    },
+    {
+      "source": "andrewlam",
+      "target": "dkamalov",
+      "value": 3
+    },
+    {
+      "source": "jorge",
+      "target": "tongyun",
+      "value": 230
+    },
+    {
+      "source": "tracy",
+      "target": "yeming",
+      "value": 17
+    },
+    {
+      "source": "alexcheng",
+      "target": "vickie",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "tpan",
+      "value": 13
+    },
+    {
+      "source": "efujimoto",
+      "target": "jtsay",
+      "value": 20
+    },
+    {
+      "source": "alexcheng",
+      "target": "jtsay",
+      "value": 5
+    },
+    {
+      "source": "neha",
+      "target": "renal",
+      "value": 161
+    },
+    {
+      "source": "arjun",
+      "target": "neha",
+      "value": 13
+    },
+    {
+      "source": "lboyer",
+      "target": "tim",
+      "value": 5
+    },
+    {
+      "source": "sku",
+      "target": "tim",
+      "value": 7
+    },
+    {
+      "source": "kazu",
+      "target": "senseiurata",
+      "value": 49
+    },
+    {
+      "source": "bryan",
+      "target": "kazu",
+      "value": 12
+    },
+    {
+      "source": "evan",
+      "target": "senseiurata",
+      "value": 58
+    },
+    {
+      "source": "bryan",
+      "target": "vincent",
+      "value": 74
+    },
+    {
+      "source": "dylan",
+      "target": "glen",
+      "value": 2
+    },
+    {
+      "source": "dli",
+      "target": "dylan",
+      "value": 6
+    },
+    {
+      "source": "qlyu",
+      "target": "sku",
+      "value": 2
+    },
+    {
+      "source": "eee",
+      "target": "jmikkola",
+      "value": 4
+    },
+    {
+      "source": "georgeashworth",
+      "target": "jmikkola",
+      "value": 2
+    },
+    {
+      "source": "hao89",
+      "target": "yi",
+      "value": 6
+    },
+    {
+      "source": "dcapo",
+      "target": "markmiro",
+      "value": 11
+    },
+    {
+      "source": "llin",
+      "target": "tongyun",
+      "value": 4
+    },
+    {
+      "source": "llin",
+      "target": "yifei",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "nmcquay",
+      "value": 19
+    },
+    {
+      "source": "jessie",
+      "target": "jtsay",
+      "value": 70
+    },
+    {
+      "source": "evan",
+      "target": "jtsay",
+      "value": 23
+    },
+    {
+      "source": "bryan",
+      "target": "doconnor",
+      "value": 76
+    },
+    {
+      "source": "dli",
+      "target": "xzhang",
+      "value": 12
+    },
+    {
+      "source": "evan",
+      "target": "jessie",
+      "value": 168
+    },
+    {
+      "source": "pchai",
+      "target": "yi",
+      "value": 80
+    },
+    {
+      "source": "kazu",
+      "target": "pchai",
+      "value": 15
+    },
+    {
+      "source": "jmikkola",
+      "target": "trotter",
+      "value": 22
+    },
+    {
+      "source": "giles",
+      "target": "giles",
+      "value": 128
+    },
+    {
+      "source": "giles",
+      "target": "tim",
+      "value": 80
+    },
+    {
+      "source": "bryan",
+      "target": "jmikkola",
+      "value": 41
+    },
+    {
+      "source": "giles",
+      "target": "richard",
+      "value": 14
+    },
+    {
+      "source": "giles",
+      "target": "vincent",
+      "value": 9
+    },
+    {
+      "source": "alex",
+      "target": "giles",
+      "value": 13
+    },
+    {
+      "source": "jasonk",
+      "target": "jmikkola",
+      "value": 7
+    },
+    {
+      "source": "hli",
+      "target": "peter",
+      "value": 7
+    },
+    {
+      "source": "evan",
+      "target": "long",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "long",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "maddie",
+      "value": 36
+    },
+    {
+      "source": "jtsay",
+      "target": "maddie",
+      "value": 14
+    },
+    {
+      "source": "linpengl",
+      "target": "nicolekg",
+      "value": 4
+    },
+    {
+      "source": "alexcheng",
+      "target": "jmikkola",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "jmikkola",
+      "value": 17
+    },
+    {
+      "source": "richard",
+      "target": "vincent",
+      "value": 252
+    },
+    {
+      "source": "georgeashworth",
+      "target": "yi",
+      "value": 24
+    },
+    {
+      "source": "doconnor",
+      "target": "giles",
+      "value": 45
+    },
+    {
+      "source": "giles",
+      "target": "lboyer",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "jmikkola",
+      "value": 22
+    },
+    {
+      "source": "giles",
+      "target": "tom",
+      "value": 3
+    },
+    {
+      "source": "hsiao",
+      "target": "kazu",
+      "value": 4
+    },
+    {
+      "source": "cheston",
+      "target": "linpengl",
+      "value": 3
+    },
+    {
+      "source": "andrewlam",
+      "target": "asekine",
+      "value": 7
+    },
+    {
+      "source": "chrisb",
+      "target": "jasonk",
+      "value": 8
+    },
+    {
+      "source": "jmikkola",
+      "target": "venky",
+      "value": 27
+    },
+    {
+      "source": "georgeashworth",
+      "target": "hao89",
+      "value": 10
+    },
+    {
+      "source": "alexcheng",
+      "target": "tim",
+      "value": 8
+    },
+    {
+      "source": "jackson",
+      "target": "kazu",
+      "value": 10
+    },
+    {
+      "source": "doconnor",
+      "target": "tom",
+      "value": 26
+    },
+    {
+      "source": "dcapo",
+      "target": "dcapo",
+      "value": 27
+    },
+    {
+      "source": "alexcheng",
+      "target": "giles",
+      "value": 11
+    },
+    {
+      "source": "jtsay",
+      "target": "jtsay",
+      "value": 50
+    },
+    {
+      "source": "alee",
+      "target": "rich",
+      "value": 7
+    },
+    {
+      "source": "hao",
+      "target": "mscheifer",
+      "value": 19
+    },
+    {
+      "source": "hao",
+      "target": "tep",
+      "value": 31
+    },
+    {
+      "source": "pchai",
+      "target": "trotter",
+      "value": 3
+    },
+    {
+      "source": "bharadwaj",
+      "target": "trotter",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "tongyun",
+      "value": 15
+    },
+    {
+      "source": "jmikkola",
+      "target": "yifei",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "jorge",
+      "value": 55
+    },
+    {
+      "source": "kevinb",
+      "target": "pchai",
+      "value": 5
+    },
+    {
+      "source": "hsiao",
+      "target": "rich",
+      "value": 18
+    },
+    {
+      "source": "asekine",
+      "target": "giles",
+      "value": 5
+    },
+    {
+      "source": "giles",
+      "target": "kamal",
+      "value": 5
+    },
+    {
+      "source": "giles",
+      "target": "maddie",
+      "value": 8
+    },
+    {
+      "source": "alexcheng",
+      "target": "maddie",
+      "value": 39
+    },
+    {
+      "source": "jinjlu",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "renal",
+      "value": 20
+    },
+    {
+      "source": "giles",
+      "target": "unzi",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "unzi",
+      "value": 3
+    },
+    {
+      "source": "andrewlam",
+      "target": "jorge",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "andrewlam",
+      "value": 18
+    },
+    {
+      "source": "jorge",
+      "target": "preetam",
+      "value": 11
+    },
+    {
+      "source": "alexcheng",
+      "target": "efujimoto",
+      "value": 2
+    },
+    {
+      "source": "liyuanh",
+      "target": "markmiro",
+      "value": 11
+    },
+    {
+      "source": "liyuanh",
+      "target": "trotter",
+      "value": 4
+    },
+    {
+      "source": "liyuanh",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "awong",
+      "target": "senseiurata",
+      "value": 7
+    },
+    {
+      "source": "liyuanh",
+      "target": "tim",
+      "value": 10
+    },
+    {
+      "source": "liyuanh",
+      "target": "weikang",
+      "value": 21
+    },
+    {
+      "source": "alex",
+      "target": "venky",
+      "value": 13
+    },
+    {
+      "source": "chrisb",
+      "target": "maddie",
+      "value": 65
+    },
+    {
+      "source": "cheston",
+      "target": "yeming",
+      "value": 56
+    },
+    {
+      "source": "kazu",
+      "target": "long",
+      "value": 27
+    },
+    {
+      "source": "dcapo",
+      "target": "long",
+      "value": 5
+    },
+    {
+      "source": "evan",
+      "target": "kazu",
+      "value": 66
+    },
+    {
+      "source": "giles",
+      "target": "leo",
+      "value": 47
+    },
+    {
+      "source": "cheston",
+      "target": "giles",
+      "value": 25
+    },
+    {
+      "source": "arjun",
+      "target": "bryan",
+      "value": 5
+    },
+    {
+      "source": "bharadwaj",
+      "target": "jasonk",
+      "value": 51
+    },
+    {
+      "source": "alee",
+      "target": "renal",
+      "value": 8
+    },
+    {
+      "source": "lboyer",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "trotter",
+      "target": "wli",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "evan",
+      "value": 52
+    },
+    {
+      "source": "andrewlam",
+      "target": "nmcquay",
+      "value": 7
+    },
+    {
+      "source": "tongyun",
+      "target": "vduong",
+      "value": 10
+    },
+    {
+      "source": "georgeashworth",
+      "target": "kazu",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "jmikkola",
+      "value": 96
+    },
+    {
+      "source": "chrisb",
+      "target": "jorge",
+      "value": 2
+    },
+    {
+      "source": "preetam",
+      "target": "yifei",
+      "value": 12
+    },
+    {
+      "source": "alee",
+      "target": "arjun",
+      "value": 5
+    },
+    {
+      "source": "dando",
+      "target": "nmcquay",
+      "value": 138
+    },
+    {
+      "source": "dando",
+      "target": "dando",
+      "value": 103
+    },
+    {
+      "source": "bryan",
+      "target": "lboyer",
+      "value": 7
+    },
+    {
+      "source": "bryan",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "mattbower",
+      "value": 31
+    },
+    {
+      "source": "dylan",
+      "target": "tim",
+      "value": 147
+    },
+    {
+      "source": "arjun",
+      "target": "hsiao",
+      "value": 14
+    },
+    {
+      "source": "alex",
+      "target": "nmcquay",
+      "value": 242
+    },
+    {
+      "source": "bharadwaj",
+      "target": "hao",
+      "value": 2
+    },
+    {
+      "source": "bharadwaj",
+      "target": "jessie",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "hsiao",
+      "value": 39
+    },
+    {
+      "source": "cheston",
+      "target": "lboyer",
+      "value": 3
+    },
+    {
+      "source": "leo",
+      "target": "richard",
+      "value": 189
+    },
+    {
+      "source": "leo",
+      "target": "leo",
+      "value": 36
+    },
+    {
+      "source": "alex",
+      "target": "kamal",
+      "value": 98
+    },
+    {
+      "source": "bryan",
+      "target": "georgeashworth",
+      "value": 7
+    },
+    {
+      "source": "bryan",
+      "target": "maddie",
+      "value": 10
+    },
+    {
+      "source": "jasonk",
+      "target": "jasonk",
+      "value": 27
+    },
+    {
+      "source": "tracy",
+      "target": "tracy",
+      "value": 10
+    },
+    {
+      "source": "dando",
+      "target": "jasonk",
+      "value": 4
+    },
+    {
+      "source": "awong",
+      "target": "evan",
+      "value": 35
+    },
+    {
+      "source": "awong",
+      "target": "pchai",
+      "value": 8
+    },
+    {
+      "source": "alee",
+      "target": "bryan",
+      "value": 260
+    },
+    {
+      "source": "chrisb",
+      "target": "tracy",
+      "value": 6
+    },
+    {
+      "source": "bharadwaj",
+      "target": "bharadwaj",
+      "value": 12
+    },
+    {
+      "source": "nmcquay",
+      "target": "trotter",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "maddie",
+      "value": 84
+    },
+    {
+      "source": "alex",
+      "target": "lboyer",
+      "value": 10
+    },
+    {
+      "source": "lboyer",
+      "target": "xin",
+      "value": 45
+    },
+    {
+      "source": "bharadwaj",
+      "target": "dando",
+      "value": 8
+    },
+    {
+      "source": "arjun",
+      "target": "renal",
+      "value": 13
+    },
+    {
+      "source": "giles",
+      "target": "rpearl",
+      "value": 7
+    },
+    {
+      "source": "leo",
+      "target": "tom",
+      "value": 17
+    },
+    {
+      "source": "liyuanh",
+      "target": "liyuanh",
+      "value": 8
+    },
+    {
+      "source": "chrisb",
+      "target": "hao89",
+      "value": 18
+    },
+    {
+      "source": "jmikkola",
+      "target": "lboyer",
+      "value": 8
+    },
+    {
+      "source": "jmikkola",
+      "target": "pchai",
+      "value": 7
+    },
+    {
+      "source": "jessie",
+      "target": "liyuanh",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "sai",
+      "value": 31
+    },
+    {
+      "source": "banderson",
+      "target": "linpengl",
+      "value": 26
+    },
+    {
+      "source": "pchai",
+      "target": "wli",
+      "value": 40
+    },
+    {
+      "source": "nmcquay",
+      "target": "vincent",
+      "value": 146
+    },
+    {
+      "source": "hsiao",
+      "target": "zhaotong",
+      "value": 10
+    },
+    {
+      "source": "yi",
+      "target": "yi",
+      "value": 9
+    },
+    {
+      "source": "hao",
+      "target": "swati",
+      "value": 23
+    },
+    {
+      "source": "richard",
+      "target": "richard",
+      "value": 80
+    },
+    {
+      "source": "arjun",
+      "target": "jmikkola",
+      "value": 17
+    },
+    {
+      "source": "cheston",
+      "target": "hao",
+      "value": 17
+    },
+    {
+      "source": "alex",
+      "target": "jorge",
+      "value": 87
+    },
+    {
+      "source": "arjun",
+      "target": "rich",
+      "value": 4
+    },
+    {
+      "source": "jackson",
+      "target": "senseiurata",
+      "value": 13
+    },
+    {
+      "source": "cheston",
+      "target": "jackson",
+      "value": 6
+    },
+    {
+      "source": "hsiao",
+      "target": "tom",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "giles",
+      "value": 35
+    },
+    {
+      "source": "pchai",
+      "target": "pchai",
+      "value": 9
+    },
+    {
+      "source": "cheston",
+      "target": "xzhang",
+      "value": 16
+    },
+    {
+      "source": "asekine",
+      "target": "nate",
+      "value": 4
+    },
+    {
+      "source": "alex",
+      "target": "asekine",
+      "value": 15
+    },
+    {
+      "source": "bryan",
+      "target": "jasonk",
+      "value": 5
+    },
+    {
+      "source": "evan",
+      "target": "jackson",
+      "value": 7
+    },
+    {
+      "source": "jackson",
+      "target": "maddie",
+      "value": 3
+    },
+    {
+      "source": "blee",
+      "target": "hao89",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "vincent",
+      "value": 59
+    },
+    {
+      "source": "hao89",
+      "target": "peter",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "peter",
+      "value": 126
+    },
+    {
+      "source": "peter",
+      "target": "vduong",
+      "value": 31
+    },
+    {
+      "source": "alex",
+      "target": "alex",
+      "value": 74
+    },
+    {
+      "source": "giles",
+      "target": "hsiao",
+      "value": 22
+    },
+    {
+      "source": "efujimoto",
+      "target": "vduong",
+      "value": 27
+    },
+    {
+      "source": "arjun",
+      "target": "jackson",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "hao89",
+      "value": 17
+    },
+    {
+      "source": "qchang",
+      "target": "sai",
+      "value": 4
+    },
+    {
+      "source": "evan",
+      "target": "trotter",
+      "value": 18
+    },
+    {
+      "source": "denys",
+      "target": "yeming",
+      "value": 15
+    },
+    {
+      "source": "arjun",
+      "target": "hanjie",
+      "value": 2
+    },
+    {
+      "source": "omar",
+      "target": "santi",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "sku",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "jmikkola",
+      "target": "swati",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "tpan",
+      "value": 5
+    },
+    {
+      "source": "jessie",
+      "target": "kevinb",
+      "value": 30
+    },
+    {
+      "source": "cheston",
+      "target": "jtsay",
+      "value": 45
+    },
+    {
+      "source": "alex",
+      "target": "banderson",
+      "value": 43
+    },
+    {
+      "source": "jmikkola",
+      "target": "richard",
+      "value": 38
+    },
+    {
+      "source": "asekine",
+      "target": "jmikkola",
+      "value": 15
+    },
+    {
+      "source": "evan",
+      "target": "tom",
+      "value": 10
+    },
+    {
+      "source": "swati",
+      "target": "swati",
+      "value": 16
+    },
+    {
+      "source": "alex",
+      "target": "tongyun",
+      "value": 20
+    },
+    {
+      "source": "long",
+      "target": "senseiurata",
+      "value": 11
+    },
+    {
+      "source": "cheston",
+      "target": "yi",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "sku",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "rpearl",
+      "value": 7
+    },
+    {
+      "source": "bharadwaj",
+      "target": "sai",
+      "value": 2
+    },
+    {
+      "source": "andrewlam",
+      "target": "jmikkola",
+      "value": 12
+    },
+    {
+      "source": "cheston",
+      "target": "jmikkola",
+      "value": 14
+    },
+    {
+      "source": "dando",
+      "target": "tongyun",
+      "value": 4
+    },
+    {
+      "source": "alexcheng",
+      "target": "blee",
+      "value": 4
+    },
+    {
+      "source": "jsokcevic",
+      "target": "swati",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "swati",
+      "value": 22
+    },
+    {
+      "source": "bryan",
+      "target": "leo",
+      "value": 97
+    },
+    {
+      "source": "jackson",
+      "target": "jackson",
+      "value": 11
+    },
+    {
+      "source": "alexcheng",
+      "target": "jessie",
+      "value": 8
+    },
+    {
+      "source": "bryan",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "hao89",
+      "target": "jmikkola",
+      "value": 3
+    },
+    {
+      "source": "hsiao",
+      "target": "hsiao",
+      "value": 7
+    },
+    {
+      "source": "dylan",
+      "target": "xzhang",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "cheston",
+      "value": 46
+    },
+    {
+      "source": "cheston",
+      "target": "nmcquay",
+      "value": 3
+    },
+    {
+      "source": "hao89",
+      "target": "yeming",
+      "value": 4
+    },
+    {
+      "source": "jtsay",
+      "target": "wli",
+      "value": 2
+    },
+    {
+      "source": "bharadwaj",
+      "target": "yi",
+      "value": 4
+    },
+    {
+      "source": "jessie",
+      "target": "wli",
+      "value": 16
+    },
+    {
+      "source": "alexcheng",
+      "target": "dcapo",
+      "value": 17
+    },
+    {
+      "source": "awong",
+      "target": "bharadwaj",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "vikram",
+      "value": 3
+    },
+    {
+      "source": "jtsay",
+      "target": "kevinb",
+      "value": 4
+    },
+    {
+      "source": "droth",
+      "target": "efujimoto",
+      "value": 2
+    },
+    {
+      "source": "alee",
+      "target": "mattbower",
+      "value": 4
+    },
+    {
+      "source": "scottasoutherland",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "johnny",
+      "value": 108
+    },
+    {
+      "source": "johnny",
+      "target": "tim",
+      "value": 7
+    },
+    {
+      "source": "cheston",
+      "target": "maddie",
+      "value": 60
+    },
+    {
+      "source": "sku",
+      "target": "xin",
+      "value": 13
+    },
+    {
+      "source": "alex",
+      "target": "dando",
+      "value": 29
+    },
+    {
+      "source": "alex",
+      "target": "arjun",
+      "value": 14
+    },
+    {
+      "source": "hao89",
+      "target": "linpengl",
+      "value": 2
+    },
+    {
+      "source": "hli",
+      "target": "lingduo.kong",
+      "value": 104
+    },
+    {
+      "source": "dando",
+      "target": "richard",
+      "value": 48
+    },
+    {
+      "source": "alee",
+      "target": "neha",
+      "value": 10
+    },
+    {
+      "source": "hao",
+      "target": "yi",
+      "value": 29
+    },
+    {
+      "source": "dando",
+      "target": "yi",
+      "value": 9
+    },
+    {
+      "source": "swati",
+      "target": "yi",
+      "value": 8
+    },
+    {
+      "source": "hao",
+      "target": "james.johnston",
+      "value": 45
+    },
+    {
+      "source": "blee",
+      "target": "jaywang",
+      "value": 3
+    },
+    {
+      "source": "johnkim",
+      "target": "sku",
+      "value": 2
+    },
+    {
+      "source": "asekine",
+      "target": "sku",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "dando",
+      "value": 316
+    },
+    {
+      "source": "alee",
+      "target": "dando",
+      "value": 54
+    },
+    {
+      "source": "aglick",
+      "target": "banderson",
+      "value": 3
+    },
+    {
+      "source": "hanjie",
+      "target": "renal",
+      "value": 6
+    },
+    {
+      "source": "hao89",
+      "target": "jinjlu",
+      "value": 3
+    },
+    {
+      "source": "evan",
+      "target": "giles",
+      "value": 80
+    },
+    {
+      "source": "hao89",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "johnny",
+      "target": "richard",
+      "value": 7
+    },
+    {
+      "source": "hsiao",
+      "target": "johnny",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "marianosimone",
+      "value": 5
+    },
+    {
+      "source": "james.johnston",
+      "target": "tep",
+      "value": 59
+    },
+    {
+      "source": "swati",
+      "target": "tep",
+      "value": 99
+    },
+    {
+      "source": "dando",
+      "target": "giles",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "efujimoto",
+      "value": 18
+    },
+    {
+      "source": "jtsay",
+      "target": "preetam",
+      "value": 2
+    },
+    {
+      "source": "blee",
+      "target": "cheston",
+      "value": 3
+    },
+    {
+      "source": "renal",
+      "target": "renal",
+      "value": 13
+    },
+    {
+      "source": "cheston",
+      "target": "tracy",
+      "value": 3
+    },
+    {
+      "source": "hao89",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "renal",
+      "value": 8
+    },
+    {
+      "source": "cameron",
+      "target": "santi",
+      "value": 6
+    },
+    {
+      "source": "jmikkola",
+      "target": "renal",
+      "value": 5
+    },
+    {
+      "source": "dando",
+      "target": "jmikkola",
+      "value": 22
+    },
+    {
+      "source": "jmikkola",
+      "target": "vincent",
+      "value": 32
+    },
+    {
+      "source": "heidy",
+      "target": "santi",
+      "value": 23
+    },
+    {
+      "source": "dylan",
+      "target": "jsokcevic",
+      "value": 17
+    },
+    {
+      "source": "dylan",
+      "target": "jmikkola",
+      "value": 21
+    },
+    {
+      "source": "alex",
+      "target": "dylan",
+      "value": 27
+    },
+    {
+      "source": "asekine",
+      "target": "bryan",
+      "value": 12
+    },
+    {
+      "source": "alexcheng",
+      "target": "cheston",
+      "value": 50
+    },
+    {
+      "source": "tep",
+      "target": "tep",
+      "value": 29
+    },
+    {
+      "source": "blee",
+      "target": "bryan",
+      "value": 2
+    },
+    {
+      "source": "doconnor",
+      "target": "hsiao",
+      "value": 8
+    },
+    {
+      "source": "bryan",
+      "target": "markmiro",
+      "value": 13
+    },
+    {
+      "source": "bryan",
+      "target": "cheston",
+      "value": 8
+    },
+    {
+      "source": "andrewlam",
+      "target": "bryan",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "swati",
+      "value": 13
+    },
+    {
+      "source": "cameron",
+      "target": "heidy",
+      "value": 24
+    },
+    {
+      "source": "leo",
+      "target": "vincent",
+      "value": 412
+    },
+    {
+      "source": "bryan",
+      "target": "long",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "pchai",
+      "value": 29
+    },
+    {
+      "source": "dylan",
+      "target": "dylan",
+      "value": 21
+    },
+    {
+      "source": "neha",
+      "target": "neha",
+      "value": 17
+    },
+    {
+      "source": "dylan",
+      "target": "neha",
+      "value": 21
+    },
+    {
+      "source": "bryan",
+      "target": "xin",
+      "value": 5
+    },
+    {
+      "source": "lgong",
+      "target": "weikang",
+      "value": 11
+    },
+    {
+      "source": "awong",
+      "target": "kazu",
+      "value": 17
+    },
+    {
+      "source": "cheston",
+      "target": "jaywang",
+      "value": 4
+    },
+    {
+      "source": "banderson",
+      "target": "denys",
+      "value": 34
+    },
+    {
+      "source": "arjun",
+      "target": "tim",
+      "value": 17
+    },
+    {
+      "source": "arjun",
+      "target": "arjun",
+      "value": 20
+    },
+    {
+      "source": "pchai",
+      "target": "senseiurata",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "kamal",
+      "value": 41
+    },
+    {
+      "source": "vincent",
+      "target": "vincent",
+      "value": 50
+    },
+    {
+      "source": "llin",
+      "target": "preetam",
+      "value": 2
+    },
+    {
+      "source": "hao89",
+      "target": "jessie",
+      "value": 9
+    },
+    {
+      "source": "long",
+      "target": "swati",
+      "value": 21
+    },
+    {
+      "source": "denys",
+      "target": "hao89",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "jorge",
+      "value": 3
+    },
+    {
+      "source": "chrisb",
+      "target": "chrisb",
+      "value": 12
+    },
+    {
+      "source": "alex",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "evan",
+      "target": "evan",
+      "value": 130
+    },
+    {
+      "source": "cheston",
+      "target": "jessie",
+      "value": 8
+    },
+    {
+      "source": "fengnan",
+      "target": "hli",
+      "value": 2
+    },
+    {
+      "source": "heidy",
+      "target": "marianosimone",
+      "value": 45
+    },
+    {
+      "source": "chrisb",
+      "target": "denys",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "eee",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "johnny",
+      "value": 41
+    },
+    {
+      "source": "james.johnston",
+      "target": "long",
+      "value": 10
+    },
+    {
+      "source": "hao89",
+      "target": "tongyun",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "jorge",
+      "value": 18
+    },
+    {
+      "source": "jessie",
+      "target": "long",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "kazu",
+      "value": 5
+    },
+    {
+      "source": "hli",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "zhaotong",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "pchai",
+      "value": 12
+    },
+    {
+      "source": "glen",
+      "target": "jmikkola",
+      "value": 164
+    },
+    {
+      "source": "efujimoto",
+      "target": "hao89",
+      "value": 18
+    },
+    {
+      "source": "arjun",
+      "target": "dylan",
+      "value": 4
+    },
+    {
+      "source": "chrisb",
+      "target": "jmikkola",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "jmikkola",
+      "value": 7
+    },
+    {
+      "source": "dando",
+      "target": "santi",
+      "value": 3
+    },
+    {
+      "source": "sai",
+      "target": "sai",
+      "value": 17
+    },
+    {
+      "source": "arjun",
+      "target": "asekine",
+      "value": 2
+    },
+    {
+      "source": "alee",
+      "target": "dcapo",
+      "value": 29
+    },
+    {
+      "source": "jsokcevic",
+      "target": "mfa",
+      "value": 30
+    },
+    {
+      "source": "jmikkola",
+      "target": "maddie",
+      "value": 32
+    },
+    {
+      "source": "evan",
+      "target": "maddie",
+      "value": 12
+    },
+    {
+      "source": "evan",
+      "target": "jasonk",
+      "value": 16
+    },
+    {
+      "source": "dylan",
+      "target": "hsiao",
+      "value": 26
+    },
+    {
+      "source": "banderson",
+      "target": "jmikkola",
+      "value": 39
+    },
+    {
+      "source": "nmcquay",
+      "target": "richard",
+      "value": 62
+    },
+    {
+      "source": "alex",
+      "target": "richard",
+      "value": 105
+    },
+    {
+      "source": "alee",
+      "target": "richard",
+      "value": 17
+    },
+    {
+      "source": "jsokcevic",
+      "target": "marianosimone",
+      "value": 25
+    },
+    {
+      "source": "dylan",
+      "target": "santi",
+      "value": 3
+    },
+    {
+      "source": "dando",
+      "target": "pchai",
+      "value": 3
+    },
+    {
+      "source": "dcapo",
+      "target": "rich",
+      "value": 44
+    },
+    {
+      "source": "mscheifer",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "mattbower",
+      "value": 28
+    },
+    {
+      "source": "dcapo",
+      "target": "evan",
+      "value": 4
+    },
+    {
+      "source": "jessie",
+      "target": "jmikkola",
+      "value": 2
+    },
+    {
+      "source": "denys",
+      "target": "jinjlu",
+      "value": 5
+    },
+    {
+      "source": "bryan",
+      "target": "rkolluri",
+      "value": 13
+    },
+    {
+      "source": "denys",
+      "target": "pchai",
+      "value": 4
+    },
+    {
+      "source": "jessie",
+      "target": "sherring",
+      "value": 8
+    },
+    {
+      "source": "hsiao",
+      "target": "neha",
+      "value": 21
+    },
+    {
+      "source": "nicolekg",
+      "target": "vikram",
+      "value": 10
+    },
+    {
+      "source": "jessie",
+      "target": "jessie",
+      "value": 18
+    },
+    {
+      "source": "awong",
+      "target": "long",
+      "value": 7
+    },
+    {
+      "source": "hsiao",
+      "target": "nicolekg",
+      "value": 3
+    },
+    {
+      "source": "dylan",
+      "target": "jasonk",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "lingduo.kong",
+      "value": 3
+    },
+    {
+      "source": "bharadwaj",
+      "target": "nmcquay",
+      "value": 2
+    },
+    {
+      "source": "sding",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "georgeashworth",
+      "target": "giles",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "georgeashworth",
+      "value": 47
+    },
+    {
+      "source": "awong",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "xfei",
+      "value": 10
+    },
+    {
+      "source": "markmiro",
+      "target": "richard",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "hli",
+      "value": 66
+    },
+    {
+      "source": "jackson",
+      "target": "james.johnston",
+      "value": 2
+    },
+    {
+      "source": "jackson",
+      "target": "swati",
+      "value": 13
+    },
+    {
+      "source": "dcapo",
+      "target": "dylan",
+      "value": 43
+    },
+    {
+      "source": "jackson",
+      "target": "long",
+      "value": 8
+    },
+    {
+      "source": "peter",
+      "target": "peter",
+      "value": 28
+    },
+    {
+      "source": "scottasoutherland",
+      "target": "wli",
+      "value": 3
+    },
+    {
+      "source": "hao89",
+      "target": "sding",
+      "value": 33
+    },
+    {
+      "source": "alex",
+      "target": "hao89",
+      "value": 8
+    },
+    {
+      "source": "alex",
+      "target": "wli",
+      "value": 5
+    },
+    {
+      "source": "heidy",
+      "target": "jmikkola",
+      "value": 26
+    },
+    {
+      "source": "jmikkola",
+      "target": "xin",
+      "value": 5
+    },
+    {
+      "source": "asekine",
+      "target": "markmiro",
+      "value": 2
+    },
+    {
+      "source": "tim",
+      "target": "tim",
+      "value": 13
+    },
+    {
+      "source": "renal",
+      "target": "tim",
+      "value": 28
+    },
+    {
+      "source": "jsokcevic",
+      "target": "richard",
+      "value": 8
+    },
+    {
+      "source": "jmikkola",
+      "target": "marianosimone",
+      "value": 22
+    },
+    {
+      "source": "heidy",
+      "target": "jsokcevic",
+      "value": 24
+    },
+    {
+      "source": "alexcheng",
+      "target": "jorge",
+      "value": 4
+    },
+    {
+      "source": "dli",
+      "target": "sding",
+      "value": 5
+    },
+    {
+      "source": "james.johnston",
+      "target": "swati",
+      "value": 5
+    },
+    {
+      "source": "felipe",
+      "target": "heidy",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "tongyun",
+      "value": 5
+    },
+    {
+      "source": "dcapo",
+      "target": "richard",
+      "value": 17
+    },
+    {
+      "source": "doconnor",
+      "target": "doconnor",
+      "value": 3
+    },
+    {
+      "source": "kazu",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "markmiro",
+      "value": 9
+    },
+    {
+      "source": "alexcheng",
+      "target": "markmiro",
+      "value": 2
+    },
+    {
+      "source": "nmcquay",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "arjun",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "peter",
+      "value": 41
+    },
+    {
+      "source": "dcapo",
+      "target": "kazu",
+      "value": 5
+    },
+    {
+      "source": "pchai",
+      "target": "scottasoutherland",
+      "value": 3
+    },
+    {
+      "source": "awong",
+      "target": "awong",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "jsokcevic",
+      "value": 11
+    },
+    {
+      "source": "maddie",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "sding",
+      "value": 30
+    },
+    {
+      "source": "cheston",
+      "target": "sding",
+      "value": 3
+    },
+    {
+      "source": "dcapo",
+      "target": "unzi",
+      "value": 2
+    },
+    {
+      "source": "hli",
+      "target": "pchai",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "sherring",
+      "value": 12
+    },
+    {
+      "source": "arjun",
+      "target": "johnkim",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "kazu",
+      "value": 2
+    },
+    {
+      "source": "preetam",
+      "target": "tongyun",
+      "value": 12
+    },
+    {
+      "source": "bryan",
+      "target": "james.johnston",
+      "value": 2
+    },
+    {
+      "source": "sding",
+      "target": "yeming",
+      "value": 49
+    },
+    {
+      "source": "jtsay",
+      "target": "pchai",
+      "value": 19
+    },
+    {
+      "source": "jasonk",
+      "target": "lingduo.kong",
+      "value": 14
+    },
+    {
+      "source": "liyuanh",
+      "target": "sku",
+      "value": 6
+    },
+    {
+      "source": "jasonk",
+      "target": "pchai",
+      "value": 4
+    },
+    {
+      "source": "awong",
+      "target": "jasonk",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "johnny",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "jmikkola",
+      "value": 4
+    },
+    {
+      "source": "rich",
+      "target": "tim",
+      "value": 10
+    },
+    {
+      "source": "sai",
+      "target": "tejal",
+      "value": 4
+    },
+    {
+      "source": "asekine",
+      "target": "banderson",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "tongyun",
+      "value": 3
+    },
+    {
+      "source": "alexcheng",
+      "target": "evan",
+      "value": 72
+    },
+    {
+      "source": "liyuanh",
+      "target": "xin",
+      "value": 44
+    },
+    {
+      "source": "arjun",
+      "target": "tongyun",
+      "value": 4
+    },
+    {
+      "source": "sding",
+      "target": "sding",
+      "value": 15
+    },
+    {
+      "source": "fengnan",
+      "target": "preetam",
+      "value": 4
+    },
+    {
+      "source": "johnkim",
+      "target": "markmiro",
+      "value": 5
+    },
+    {
+      "source": "fengnan",
+      "target": "yifei",
+      "value": 12
+    },
+    {
+      "source": "denys",
+      "target": "vikram",
+      "value": 12
+    },
+    {
+      "source": "yeming",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "renal",
+      "value": 5
+    },
+    {
+      "source": "jma",
+      "target": "tim",
+      "value": 18
+    },
+    {
+      "source": "jma",
+      "target": "jma",
+      "value": 27
+    },
+    {
+      "source": "cheston",
+      "target": "chrisb",
+      "value": 6
+    },
+    {
+      "source": "jma",
+      "target": "jmikkola",
+      "value": 42
+    },
+    {
+      "source": "dylan",
+      "target": "giles",
+      "value": 10
+    },
+    {
+      "source": "glen",
+      "target": "jsokcevic",
+      "value": 97
+    },
+    {
+      "source": "alex",
+      "target": "jackson",
+      "value": 3
+    },
+    {
+      "source": "dylan",
+      "target": "jma",
+      "value": 6
+    },
+    {
+      "source": "alee",
+      "target": "nmcquay",
+      "value": 3
+    },
+    {
+      "source": "lgong",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "lgong",
+      "value": 2
+    },
+    {
+      "source": "jackson",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "glen",
+      "value": 84
+    },
+    {
+      "source": "alex",
+      "target": "yi",
+      "value": 24
+    },
+    {
+      "source": "hao",
+      "target": "trotter",
+      "value": 10
+    },
+    {
+      "source": "bharadwaj",
+      "target": "pchai",
+      "value": 13
+    },
+    {
+      "source": "dando",
+      "target": "yifei",
+      "value": 5
+    },
+    {
+      "source": "giles",
+      "target": "renal",
+      "value": 5
+    },
+    {
+      "source": "bryan",
+      "target": "dylan",
+      "value": 9
+    },
+    {
+      "source": "asekine",
+      "target": "jorge",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "renal",
+      "value": 8
+    },
+    {
+      "source": "jma",
+      "target": "tongyun",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "long",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "jasonk",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "jinjlu",
+      "value": 33
+    },
+    {
+      "source": "fengnan",
+      "target": "tongyun",
+      "value": 11
+    },
+    {
+      "source": "chrisb",
+      "target": "georgeashworth",
+      "value": 3
+    },
+    {
+      "source": "sumit",
+      "target": "tongyun",
+      "value": 29
+    },
+    {
+      "source": "bharadwaj",
+      "target": "xzhang",
+      "value": 4
+    },
+    {
+      "source": "doconnor",
+      "target": "evan",
+      "value": 16
+    },
+    {
+      "source": "dylan",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "chrisb",
+      "value": 33
+    },
+    {
+      "source": "long",
+      "target": "long",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "renal",
+      "value": 55
+    },
+    {
+      "source": "jasonk",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "jtsay",
+      "value": 9
+    },
+    {
+      "source": "jmikkola",
+      "target": "vduong",
+      "value": 4
+    },
+    {
+      "source": "nmcquay",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "vincent",
+      "value": 3
+    },
+    {
+      "source": "alee",
+      "target": "vincent",
+      "value": 30
+    },
+    {
+      "source": "pchai",
+      "target": "sherring",
+      "value": 3
+    },
+    {
+      "source": "mscheifer",
+      "target": "swati",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "leo",
+      "value": 30
+    },
+    {
+      "source": "alexcheng",
+      "target": "jaywang",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "james.johnston",
+      "value": 22
+    },
+    {
+      "source": "banderson",
+      "target": "vikram",
+      "value": 32
+    },
+    {
+      "source": "jmikkola",
+      "target": "kazu",
+      "value": 5
+    },
+    {
+      "source": "andrewlam",
+      "target": "cheston",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "rich",
+      "value": 3
+    },
+    {
+      "source": "chrisb",
+      "target": "yeming",
+      "value": 13
+    },
+    {
+      "source": "jasonk",
+      "target": "tracy",
+      "value": 45
+    },
+    {
+      "source": "long",
+      "target": "tracy",
+      "value": 3
+    },
+    {
+      "source": "james.johnston",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "hao",
+      "value": 3
+    },
+    {
+      "source": "johnny",
+      "target": "johnny",
+      "value": 10
+    },
+    {
+      "source": "dando",
+      "target": "mattbower",
+      "value": 5
+    },
+    {
+      "source": "droth",
+      "target": "jmikkola",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "sumit",
+      "value": 62
+    },
+    {
+      "source": "dylan",
+      "target": "heidy",
+      "value": 7
+    },
+    {
+      "source": "dylan",
+      "target": "xin",
+      "value": 3
+    },
+    {
+      "source": "evan",
+      "target": "hao89",
+      "value": 2
+    },
+    {
+      "source": "hsiao",
+      "target": "senseiurata",
+      "value": 2
+    },
+    {
+      "source": "vikram",
+      "target": "vikram",
+      "value": 4
+    },
+    {
+      "source": "banderson",
+      "target": "dando",
+      "value": 8
+    },
+    {
+      "source": "asekine",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "wli",
+      "target": "wli",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "neha",
+      "value": 3
+    },
+    {
+      "source": "lgong",
+      "target": "sku",
+      "value": 5
+    },
+    {
+      "source": "fengnan",
+      "target": "jorge",
+      "value": 8
+    },
+    {
+      "source": "dcapo",
+      "target": "senseiurata",
+      "value": 20
+    },
+    {
+      "source": "jessie",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "glen",
+      "value": 17
+    },
+    {
+      "source": "dando",
+      "target": "renal",
+      "value": 4
+    },
+    {
+      "source": "hpanchal",
+      "target": "lgong",
+      "value": 10
+    },
+    {
+      "source": "alex",
+      "target": "james.johnston",
+      "value": 47
+    },
+    {
+      "source": "cheston",
+      "target": "vduong",
+      "value": 17
+    },
+    {
+      "source": "dando",
+      "target": "rkolluri",
+      "value": 15
+    },
+    {
+      "source": "arjun",
+      "target": "lboyer",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "lboyer",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tmeagher",
+      "value": 36
+    },
+    {
+      "source": "banderson",
+      "target": "sethk",
+      "value": 6
+    },
+    {
+      "source": "jinjlu",
+      "target": "lboyer",
+      "value": 5
+    },
+    {
+      "source": "jma",
+      "target": "johnkim",
+      "value": 2
+    },
+    {
+      "source": "hsiao",
+      "target": "johnkim",
+      "value": 2
+    },
+    {
+      "source": "lboyer",
+      "target": "weikang",
+      "value": 5
+    },
+    {
+      "source": "sku",
+      "target": "weikang",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "hao",
+      "value": 18
+    },
+    {
+      "source": "alee",
+      "target": "alee",
+      "value": 17
+    },
+    {
+      "source": "neha",
+      "target": "tim",
+      "value": 20
+    },
+    {
+      "source": "sagnik",
+      "target": "yifei",
+      "value": 12
+    },
+    {
+      "source": "jorge",
+      "target": "sagnik",
+      "value": 18
+    },
+    {
+      "source": "kazu",
+      "target": "swati",
+      "value": 4
+    },
+    {
+      "source": "evan",
+      "target": "markmiro",
+      "value": 4
+    },
+    {
+      "source": "jma",
+      "target": "richard",
+      "value": 4
+    },
+    {
+      "source": "hli",
+      "target": "tongyun",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "tim",
+      "value": 5
+    },
+    {
+      "source": "neha",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "tongyun",
+      "value": 10
+    },
+    {
+      "source": "alexcheng",
+      "target": "tongyun",
+      "value": 7
+    },
+    {
+      "source": "heidy",
+      "target": "lboyer",
+      "value": 6
+    },
+    {
+      "source": "lboyer",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "james.johnston",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "cheston",
+      "target": "droth",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "jsokcevic",
+      "value": 103
+    },
+    {
+      "source": "efujimoto",
+      "target": "lboyer",
+      "value": 6
+    },
+    {
+      "source": "eee",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "fengnan",
+      "target": "jmikkola",
+      "value": 8
+    },
+    {
+      "source": "hsiao",
+      "target": "richard",
+      "value": 6
+    },
+    {
+      "source": "dcapo",
+      "target": "jinjlu",
+      "value": 3
+    },
+    {
+      "source": "lboyer",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "lboyer",
+      "target": "yeming",
+      "value": 2
+    },
+    {
+      "source": "asekine",
+      "target": "asekine",
+      "value": 2
+    },
+    {
+      "source": "rkolluri",
+      "target": "sai",
+      "value": 11
+    },
+    {
+      "source": "james.johnston",
+      "target": "vincent",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "vincent",
+      "value": 11
+    },
+    {
+      "source": "alex",
+      "target": "vincent",
+      "value": 65
+    },
+    {
+      "source": "lboyer",
+      "target": "markmiro",
+      "value": 3
+    },
+    {
+      "source": "johnkim",
+      "target": "lboyer",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "tpan",
+      "value": 7
+    },
+    {
+      "source": "tom",
+      "target": "tom",
+      "value": 6
+    },
+    {
+      "source": "liyuanh",
+      "target": "santi",
+      "value": 2
+    },
+    {
+      "source": "carolina",
+      "target": "liyuanh",
+      "value": 2
+    },
+    {
+      "source": "long",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "jorge",
+      "value": 4
+    },
+    {
+      "source": "dli",
+      "target": "tongyun",
+      "value": 5
+    },
+    {
+      "source": "peter",
+      "target": "tpan",
+      "value": 47
+    },
+    {
+      "source": "alee",
+      "target": "johnny",
+      "value": 123
+    },
+    {
+      "source": "sai",
+      "target": "vincent",
+      "value": 5
+    },
+    {
+      "source": "flavius",
+      "target": "hao",
+      "value": 5
+    },
+    {
+      "source": "tpan",
+      "target": "xfei",
+      "value": 6
+    },
+    {
+      "source": "tpan",
+      "target": "tpan",
+      "value": 26
+    },
+    {
+      "source": "sagnik",
+      "target": "tongyun",
+      "value": 13
+    },
+    {
+      "source": "dli",
+      "target": "tpan",
+      "value": 4
+    },
+    {
+      "source": "dylan",
+      "target": "marianosimone",
+      "value": 7
+    },
+    {
+      "source": "fengnan",
+      "target": "sagnik",
+      "value": 6
+    },
+    {
+      "source": "jsokcevic",
+      "target": "pchai",
+      "value": 5
+    },
+    {
+      "source": "bryan",
+      "target": "jsokcevic",
+      "value": 21
+    },
+    {
+      "source": "giles",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "neha",
+      "target": "rich",
+      "value": 3
+    },
+    {
+      "source": "denys",
+      "target": "linpengl",
+      "value": 7
+    },
+    {
+      "source": "long",
+      "target": "trotter",
+      "value": 10
+    },
+    {
+      "source": "hao89",
+      "target": "maddie",
+      "value": 9
+    },
+    {
+      "source": "james.johnston",
+      "target": "trotter",
+      "value": 13
+    },
+    {
+      "source": "chrisb",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "tom",
+      "target": "vincent",
+      "value": 9
+    },
+    {
+      "source": "alex",
+      "target": "tim",
+      "value": 7
+    },
+    {
+      "source": "renal",
+      "target": "rich",
+      "value": 7
+    },
+    {
+      "source": "tpan",
+      "target": "vduong",
+      "value": 5
+    },
+    {
+      "source": "leo",
+      "target": "rkolluri",
+      "value": 40
+    },
+    {
+      "source": "arjun",
+      "target": "jma",
+      "value": 105
+    },
+    {
+      "source": "jsokcevic",
+      "target": "maddie",
+      "value": 11
+    },
+    {
+      "source": "dcapo",
+      "target": "jma",
+      "value": 7
+    },
+    {
+      "source": "alex",
+      "target": "tpan",
+      "value": 17
+    },
+    {
+      "source": "rkolluri",
+      "target": "vincent",
+      "value": 29
+    },
+    {
+      "source": "doconnor",
+      "target": "vincent",
+      "value": 8
+    },
+    {
+      "source": "glen",
+      "target": "kamal",
+      "value": 13
+    },
+    {
+      "source": "dando",
+      "target": "neha",
+      "value": 4
+    },
+    {
+      "source": "giles",
+      "target": "tmeagher",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "cheston",
+      "value": 25
+    },
+    {
+      "source": "liyuanh",
+      "target": "vincent",
+      "value": 9
+    },
+    {
+      "source": "cheston",
+      "target": "renal",
+      "value": 2
+    },
+    {
+      "source": "denys",
+      "target": "vduong",
+      "value": 7
+    },
+    {
+      "source": "jessie",
+      "target": "yi",
+      "value": 34
+    },
+    {
+      "source": "dli",
+      "target": "tracy",
+      "value": 134
+    },
+    {
+      "source": "marianosimone",
+      "target": "vincent",
+      "value": 9
+    },
+    {
+      "source": "dcapo",
+      "target": "neha",
+      "value": 11
+    },
+    {
+      "source": "linpengl",
+      "target": "vikram",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "sumit",
+      "value": 12
+    },
+    {
+      "source": "jinjlu",
+      "target": "johnny",
+      "value": 2
+    },
+    {
+      "source": "denys",
+      "target": "sethk",
+      "value": 3
+    },
+    {
+      "source": "jackson",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "sumit",
+      "target": "yifei",
+      "value": 31
+    },
+    {
+      "source": "johnny",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "johnny",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "heidy",
+      "value": 137
+    },
+    {
+      "source": "jsokcevic",
+      "target": "kamal",
+      "value": 33
+    },
+    {
+      "source": "alex",
+      "target": "jma",
+      "value": 22
+    },
+    {
+      "source": "giles",
+      "target": "jtsay",
+      "value": 18
+    },
+    {
+      "source": "jsokcevic",
+      "target": "linpengl",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "linpengl",
+      "value": 3
+    },
+    {
+      "source": "jma",
+      "target": "rpearl",
+      "value": 7
+    },
+    {
+      "source": "bryan",
+      "target": "liyuanh",
+      "value": 16
+    },
+    {
+      "source": "bryan",
+      "target": "marianosimone",
+      "value": 99
+    },
+    {
+      "source": "alex",
+      "target": "ibabushkin",
+      "value": 83
+    },
+    {
+      "source": "jmikkola",
+      "target": "yi",
+      "value": 6
+    },
+    {
+      "source": "cheston",
+      "target": "efujimoto",
+      "value": 12
+    },
+    {
+      "source": "bryan",
+      "target": "jma",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "rkolluri",
+      "value": 4
+    },
+    {
+      "source": "arjun",
+      "target": "dcapo",
+      "value": 15
+    },
+    {
+      "source": "lboyer",
+      "target": "liyuanh",
+      "value": 3
+    },
+    {
+      "source": "georgeashworth",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "kazu",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "chrisb",
+      "target": "vickie",
+      "value": 8
+    },
+    {
+      "source": "tim",
+      "target": "vickie",
+      "value": 2
+    },
+    {
+      "source": "doconnor",
+      "target": "renal",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "jtsay",
+      "value": 14
+    },
+    {
+      "source": "cheston",
+      "target": "evan",
+      "value": 10
+    },
+    {
+      "source": "lboyer",
+      "target": "vincent",
+      "value": 13
+    },
+    {
+      "source": "nmcquay",
+      "target": "rkolluri",
+      "value": 13
+    },
+    {
+      "source": "nicolekg",
+      "target": "nicolekg",
+      "value": 3
+    },
+    {
+      "source": "carolshi",
+      "target": "yeming",
+      "value": 12
+    },
+    {
+      "source": "doconnor",
+      "target": "kazu",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "jasonk",
+      "value": 109
+    },
+    {
+      "source": "jasonk",
+      "target": "tongyun",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "vickie",
+      "value": 2
+    },
+    {
+      "source": "rich",
+      "target": "rich",
+      "value": 8
+    },
+    {
+      "source": "dando",
+      "target": "johnny",
+      "value": 15
+    },
+    {
+      "source": "cheston",
+      "target": "denys",
+      "value": 3
+    },
+    {
+      "source": "james.johnston",
+      "target": "neha",
+      "value": 3
+    },
+    {
+      "source": "renal",
+      "target": "xfei",
+      "value": 69
+    },
+    {
+      "source": "bryan",
+      "target": "trotter",
+      "value": 2
+    },
+    {
+      "source": "neha",
+      "target": "vikram",
+      "value": 7
+    },
+    {
+      "source": "vduong",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "yi",
+      "value": 18
+    },
+    {
+      "source": "dylan",
+      "target": "hao89",
+      "value": 9
+    },
+    {
+      "source": "hao89",
+      "target": "tpan",
+      "value": 7
+    },
+    {
+      "source": "bharadwaj",
+      "target": "dli",
+      "value": 4
+    },
+    {
+      "source": "tim",
+      "target": "tongyun",
+      "value": 5
+    },
+    {
+      "source": "tongyun",
+      "target": "tongyun",
+      "value": 10
+    },
+    {
+      "source": "alex",
+      "target": "heidy",
+      "value": 33
+    },
+    {
+      "source": "alex",
+      "target": "preetam",
+      "value": 5
+    },
+    {
+      "source": "doconnor",
+      "target": "leo",
+      "value": 28
+    },
+    {
+      "source": "dando",
+      "target": "dcapo",
+      "value": 4
+    },
+    {
+      "source": "james.johnston",
+      "target": "jorge",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "jessie",
+      "value": 13
+    },
+    {
+      "source": "jasonk",
+      "target": "kazu",
+      "value": 4
+    },
+    {
+      "source": "sagnik",
+      "target": "sumit",
+      "value": 18
+    },
+    {
+      "source": "carolshi",
+      "target": "cheston",
+      "value": 63
+    },
+    {
+      "source": "doconnor",
+      "target": "richard",
+      "value": 2
+    },
+    {
+      "source": "dcapo",
+      "target": "doconnor",
+      "value": 8
+    },
+    {
+      "source": "heidy",
+      "target": "heidy",
+      "value": 20
+    },
+    {
+      "source": "chrisb",
+      "target": "vduong",
+      "value": 4
+    },
+    {
+      "source": "hao",
+      "target": "jackson",
+      "value": 14
+    },
+    {
+      "source": "dcapo",
+      "target": "yifei",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "hao89",
+      "value": 21
+    },
+    {
+      "source": "vduong",
+      "target": "yeming",
+      "value": 8
+    },
+    {
+      "source": "jorge",
+      "target": "jsokcevic",
+      "value": 18
+    },
+    {
+      "source": "efujimoto",
+      "target": "vickie",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "sku",
+      "value": 7
+    },
+    {
+      "source": "dcapo",
+      "target": "vickie",
+      "value": 2
+    },
+    {
+      "source": "venky",
+      "target": "venky",
+      "value": 2
+    },
+    {
+      "source": "arjun",
+      "target": "doconnor",
+      "value": 7
+    },
+    {
+      "source": "alex",
+      "target": "yeming",
+      "value": 21
+    },
+    {
+      "source": "jsokcevic",
+      "target": "yeming",
+      "value": 6
+    },
+    {
+      "source": "chrisb",
+      "target": "tim",
+      "value": 3
+    },
+    {
+      "source": "sding",
+      "target": "sethk",
+      "value": 8
+    },
+    {
+      "source": "maddie",
+      "target": "vickie",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "xzhang",
+      "value": 4
+    },
+    {
+      "source": "dando",
+      "target": "vikram",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "arjun",
+      "target": "cheston",
+      "value": 2
+    },
+    {
+      "source": "jinjlu",
+      "target": "long",
+      "value": 5
+    },
+    {
+      "source": "dli",
+      "target": "dli",
+      "value": 15
+    },
+    {
+      "source": "tpan",
+      "target": "vikram",
+      "value": 2
+    },
+    {
+      "source": "georgeashworth",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "nate",
+      "value": 7
+    },
+    {
+      "source": "jmikkola",
+      "target": "mfa",
+      "value": 34
+    },
+    {
+      "source": "dylan",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "hli",
+      "target": "hli",
+      "value": 19
+    },
+    {
+      "source": "jinjlu",
+      "target": "swati",
+      "value": 59
+    },
+    {
+      "source": "evan",
+      "target": "jinjlu",
+      "value": 14
+    },
+    {
+      "source": "cheston",
+      "target": "tongyun",
+      "value": 10
+    },
+    {
+      "source": "chrisb",
+      "target": "hsiao",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "sumit",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "lingduo.kong",
+      "value": 4
+    },
+    {
+      "source": "dli",
+      "target": "hli",
+      "value": 34
+    },
+    {
+      "source": "giles",
+      "target": "tongyun",
+      "value": 6
+    },
+    {
+      "source": "swati",
+      "target": "trotter",
+      "value": 21
+    },
+    {
+      "source": "cheston",
+      "target": "hsiao",
+      "value": 5
+    },
+    {
+      "source": "fengnan",
+      "target": "sumit",
+      "value": 7
+    },
+    {
+      "source": "jinjlu",
+      "target": "senseiurata",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "nmcquay",
+      "value": 9
+    },
+    {
+      "source": "hsiao",
+      "target": "liyuanh",
+      "value": 6
+    },
+    {
+      "source": "markmiro",
+      "target": "markmiro",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "marianosimone",
+      "value": 18
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "tep",
+      "value": 13
+    },
+    {
+      "source": "alex",
+      "target": "swati",
+      "value": 22
+    },
+    {
+      "source": "alex",
+      "target": "tejal",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "neha",
+      "value": 9
+    },
+    {
+      "source": "marianosimone",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "denys",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "marianosimone",
+      "value": 2
+    },
+    {
+      "source": "denys",
+      "target": "denys",
+      "value": 3
+    },
+    {
+      "source": "dando",
+      "target": "hsiao",
+      "value": 8
+    },
+    {
+      "source": "jessie",
+      "target": "neha",
+      "value": 10
+    },
+    {
+      "source": "marianosimone",
+      "target": "marianosimone",
+      "value": 66
+    },
+    {
+      "source": "hao",
+      "target": "marianosimone",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "peter",
+      "value": 5
+    },
+    {
+      "source": "chrisb",
+      "target": "giles",
+      "value": 3
+    },
+    {
+      "source": "jessie",
+      "target": "yeming",
+      "value": 19
+    },
+    {
+      "source": "vickie",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "yeming",
+      "value": 19
+    },
+    {
+      "source": "banderson",
+      "target": "neha",
+      "value": 3
+    },
+    {
+      "source": "hsiao",
+      "target": "rpearl",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "heidy",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "sethk",
+      "value": 8
+    },
+    {
+      "source": "alex",
+      "target": "sagnik",
+      "value": 13
+    },
+    {
+      "source": "vduong",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "tep",
+      "target": "trotter",
+      "value": 33
+    },
+    {
+      "source": "heidy",
+      "target": "scottasoutherland",
+      "value": 2
+    },
+    {
+      "source": "neha",
+      "target": "sai",
+      "value": 2
+    },
+    {
+      "source": "johnny",
+      "target": "mattbower",
+      "value": 2
+    },
+    {
+      "source": "mfa",
+      "target": "tmeagher",
+      "value": 39
+    },
+    {
+      "source": "giles",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "georgeashworth",
+      "target": "maddie",
+      "value": 4
+    },
+    {
+      "source": "doconnor",
+      "target": "maddie",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "weikang",
+      "value": 17
+    },
+    {
+      "source": "vikram",
+      "target": "xing",
+      "value": 2
+    },
+    {
+      "source": "jessie",
+      "target": "vikram",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "long",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "sding",
+      "value": 7
+    },
+    {
+      "source": "richard",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "richard",
+      "value": 24
+    },
+    {
+      "source": "preetam",
+      "target": "sagnik",
+      "value": 9
+    },
+    {
+      "source": "alexcheng",
+      "target": "kazu",
+      "value": 2
+    },
+    {
+      "source": "johnny",
+      "target": "neha",
+      "value": 2
+    },
+    {
+      "source": "leo",
+      "target": "marianosimone",
+      "value": 24
+    },
+    {
+      "source": "banderson",
+      "target": "tracy",
+      "value": 19
+    },
+    {
+      "source": "jessie",
+      "target": "kazu",
+      "value": 20
+    },
+    {
+      "source": "alex",
+      "target": "chrisb",
+      "value": 3
+    },
+    {
+      "source": "jtsay",
+      "target": "swati",
+      "value": 6
+    },
+    {
+      "source": "giles",
+      "target": "jma",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "sding",
+      "value": 5
+    },
+    {
+      "source": "tongyun",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "alee",
+      "target": "giles",
+      "value": 15
+    },
+    {
+      "source": "jsokcevic",
+      "target": "nmcquay",
+      "value": 37
+    },
+    {
+      "source": "efujimoto",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "nmcquay",
+      "value": 2
+    },
+    {
+      "source": "weikang",
+      "target": "weikang",
+      "value": 4
+    },
+    {
+      "source": "giles",
+      "target": "liyuanh",
+      "value": 4
+    },
+    {
+      "source": "dando",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "doconnor",
+      "target": "jma",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "denys",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "sethk",
+      "value": 3
+    },
+    {
+      "source": "jinjlu",
+      "target": "trotter",
+      "value": 25
+    },
+    {
+      "source": "jsokcevic",
+      "target": "sding",
+      "value": 9
+    },
+    {
+      "source": "tom",
+      "target": "weikang",
+      "value": 4
+    },
+    {
+      "source": "andrewlam",
+      "target": "giles",
+      "value": 4
+    },
+    {
+      "source": "banderson",
+      "target": "jessie",
+      "value": 7
+    },
+    {
+      "source": "banderson",
+      "target": "yi",
+      "value": 4
+    },
+    {
+      "source": "preetam",
+      "target": "sumit",
+      "value": 4
+    },
+    {
+      "source": "cheston",
+      "target": "dstenmark",
+      "value": 3
+    },
+    {
+      "source": "marianosimone",
+      "target": "richard",
+      "value": 46
+    },
+    {
+      "source": "jmikkola",
+      "target": "vikram",
+      "value": 6
+    },
+    {
+      "source": "alexcheng",
+      "target": "yeming",
+      "value": 26
+    },
+    {
+      "source": "kamal",
+      "target": "tmeagher",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "tracy",
+      "value": 3
+    },
+    {
+      "source": "georgeashworth",
+      "target": "senseiurata",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "sumit",
+      "value": 8
+    },
+    {
+      "source": "cheston",
+      "target": "dli",
+      "value": 3
+    },
+    {
+      "source": "bharadwaj",
+      "target": "evan",
+      "value": 2
+    },
+    {
+      "source": "cameron",
+      "target": "lboyer",
+      "value": 5
+    },
+    {
+      "source": "dstenmark",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "efe",
+      "target": "marianosimone",
+      "value": 2
+    },
+    {
+      "source": "jinjlu",
+      "target": "tep",
+      "value": 125
+    },
+    {
+      "source": "james.johnston",
+      "target": "jinjlu",
+      "value": 13
+    },
+    {
+      "source": "carolshi",
+      "target": "dli",
+      "value": 3
+    },
+    {
+      "source": "alee",
+      "target": "leo",
+      "value": 12
+    },
+    {
+      "source": "bryan",
+      "target": "chrisb",
+      "value": 2
+    },
+    {
+      "source": "hsiao",
+      "target": "vikram",
+      "value": 4
+    },
+    {
+      "source": "dando",
+      "target": "jsokcevic",
+      "value": 8
+    },
+    {
+      "source": "banderson",
+      "target": "yeming",
+      "value": 13
+    },
+    {
+      "source": "lboyer",
+      "target": "neha",
+      "value": 2
+    },
+    {
+      "source": "hao89",
+      "target": "hao89",
+      "value": 3
+    },
+    {
+      "source": "nmcquay",
+      "target": "nmcquay",
+      "value": 9
+    },
+    {
+      "source": "senseiurata",
+      "target": "yi",
+      "value": 4
+    },
+    {
+      "source": "weikang",
+      "target": "xin",
+      "value": 25
+    },
+    {
+      "source": "andrewlam",
+      "target": "banderson",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "tmeagher",
+      "value": 11
+    },
+    {
+      "source": "denys",
+      "target": "sding",
+      "value": 12
+    },
+    {
+      "source": "alex",
+      "target": "leo",
+      "value": 42
+    },
+    {
+      "source": "georgeashworth",
+      "target": "sding",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "sagnik",
+      "value": 9
+    },
+    {
+      "source": "jessie",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "sethk",
+      "target": "yeming",
+      "value": 11
+    },
+    {
+      "source": "nmcquay",
+      "target": "tep",
+      "value": 4
+    },
+    {
+      "source": "alex",
+      "target": "jasonk",
+      "value": 18
+    },
+    {
+      "source": "chrisb",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "pchai",
+      "target": "xzhang",
+      "value": 28
+    },
+    {
+      "source": "jinjlu",
+      "target": "yi",
+      "value": 6
+    },
+    {
+      "source": "alex",
+      "target": "hao",
+      "value": 8
+    },
+    {
+      "source": "cpak",
+      "target": "yeming",
+      "value": 19
+    },
+    {
+      "source": "dli",
+      "target": "jessie",
+      "value": 3
+    },
+    {
+      "source": "efujimoto",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "rich",
+      "value": 4
+    },
+    {
+      "source": "hsiao",
+      "target": "jma",
+      "value": 7
+    },
+    {
+      "source": "ibabushkin",
+      "target": "trotter",
+      "value": 15
+    },
+    {
+      "source": "fengnan",
+      "target": "fengnan",
+      "value": 4
+    },
+    {
+      "source": "alex",
+      "target": "yifei",
+      "value": 10
+    },
+    {
+      "source": "aglick",
+      "target": "denys",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "jinjlu",
+      "value": 36
+    },
+    {
+      "source": "senseiurata",
+      "target": "trotter",
+      "value": 7
+    },
+    {
+      "source": "chrisb",
+      "target": "evan",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "jtsay",
+      "value": 7
+    },
+    {
+      "source": "giles",
+      "target": "ibabushkin",
+      "value": 7
+    },
+    {
+      "source": "james.johnston",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "cameron",
+      "target": "renal",
+      "value": 2
+    },
+    {
+      "source": "ibabushkin",
+      "target": "richard",
+      "value": 25
+    },
+    {
+      "source": "arjun",
+      "target": "giles",
+      "value": 7
+    },
+    {
+      "source": "dando",
+      "target": "doconnor",
+      "value": 12
+    },
+    {
+      "source": "jackson",
+      "target": "trotter",
+      "value": 5
+    },
+    {
+      "source": "carolshi",
+      "target": "jessie",
+      "value": 4
+    },
+    {
+      "source": "jmikkola",
+      "target": "sumit",
+      "value": 12
+    },
+    {
+      "source": "stonezhong",
+      "target": "xin",
+      "value": 61
+    },
+    {
+      "source": "giles",
+      "target": "stonezhong",
+      "value": 19
+    },
+    {
+      "source": "evan",
+      "target": "hsiao",
+      "value": 13
+    },
+    {
+      "source": "jmikkola",
+      "target": "sagnik",
+      "value": 6
+    },
+    {
+      "source": "alee",
+      "target": "doconnor",
+      "value": 4
+    },
+    {
+      "source": "xzhang",
+      "target": "xzhang",
+      "value": 6
+    },
+    {
+      "source": "alexcheng",
+      "target": "carolshi",
+      "value": 10
+    },
+    {
+      "source": "rkolluri",
+      "target": "tejal",
+      "value": 15
+    },
+    {
+      "source": "jessie",
+      "target": "renal",
+      "value": 7
+    },
+    {
+      "source": "jessie",
+      "target": "sding",
+      "value": 8
+    },
+    {
+      "source": "hli",
+      "target": "jackson",
+      "value": 9
+    },
+    {
+      "source": "richard",
+      "target": "tejal",
+      "value": 4
+    },
+    {
+      "source": "tejal",
+      "target": "tejal",
+      "value": 17
+    },
+    {
+      "source": "johnny",
+      "target": "stonezhong",
+      "value": 62
+    },
+    {
+      "source": "jsokcevic",
+      "target": "preetam",
+      "value": 2
+    },
+    {
+      "source": "jackson",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "weikang",
+      "value": 4
+    },
+    {
+      "source": "cameron",
+      "target": "marianosimone",
+      "value": 13
+    },
+    {
+      "source": "leo",
+      "target": "lgong",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "preetam",
+      "value": 3
+    },
+    {
+      "source": "sding",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "tmeagher",
+      "target": "tmeagher",
+      "value": 13
+    },
+    {
+      "source": "bryan",
+      "target": "stonezhong",
+      "value": 31
+    },
+    {
+      "source": "doconnor",
+      "target": "markmiro",
+      "value": 3
+    },
+    {
+      "source": "ibabushkin",
+      "target": "leo",
+      "value": 25
+    },
+    {
+      "source": "ibabushkin",
+      "target": "ibabushkin",
+      "value": 26
+    },
+    {
+      "source": "dando",
+      "target": "hpanchal",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "sethk",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "dli",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "dli",
+      "value": 14
+    },
+    {
+      "source": "markmiro",
+      "target": "stonezhong",
+      "value": 7
+    },
+    {
+      "source": "jessie",
+      "target": "jinjlu",
+      "value": 5
+    },
+    {
+      "source": "alexcheng",
+      "target": "hsiao",
+      "value": 2
+    },
+    {
+      "source": "johnny",
+      "target": "nmcquay",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "weikang",
+      "value": 17
+    },
+    {
+      "source": "bryan",
+      "target": "weikang",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "sethk",
+      "value": 4
+    },
+    {
+      "source": "neha",
+      "target": "tcao",
+      "value": 7
+    },
+    {
+      "source": "dylan",
+      "target": "tcao",
+      "value": 49
+    },
+    {
+      "source": "jinjlu",
+      "target": "kazu",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "richard",
+      "value": 3
+    },
+    {
+      "source": "stonezhong",
+      "target": "weikang",
+      "value": 13
+    },
+    {
+      "source": "nmcquay",
+      "target": "yi",
+      "value": 13
+    },
+    {
+      "source": "peter",
+      "target": "sherring",
+      "value": 7
+    },
+    {
+      "source": "heidy",
+      "target": "johnny",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "peter",
+      "value": 19
+    },
+    {
+      "source": "andrewlam",
+      "target": "lboyer",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "peter",
+      "value": 24
+    },
+    {
+      "source": "banderson",
+      "target": "cpak",
+      "value": 41
+    },
+    {
+      "source": "banderson",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "arjun",
+      "target": "xfei",
+      "value": 39
+    },
+    {
+      "source": "cpak",
+      "target": "cpak",
+      "value": 18
+    },
+    {
+      "source": "cpak",
+      "target": "vikram",
+      "value": 9
+    },
+    {
+      "source": "cheston",
+      "target": "peter",
+      "value": 34
+    },
+    {
+      "source": "jma",
+      "target": "serhiy",
+      "value": 168
+    },
+    {
+      "source": "alex",
+      "target": "cameron",
+      "value": 2
+    },
+    {
+      "source": "cameron",
+      "target": "jsokcevic",
+      "value": 8
+    },
+    {
+      "source": "evan",
+      "target": "tep",
+      "value": 15
+    },
+    {
+      "source": "cameron",
+      "target": "cameron",
+      "value": 2
+    },
+    {
+      "source": "cameron",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "zizheng",
+      "value": 9
+    },
+    {
+      "source": "carolshi",
+      "target": "jinjlu",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "jorge",
+      "value": 27
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tim",
+      "value": 3
+    },
+    {
+      "source": "cheston",
+      "target": "lingduo.kong",
+      "value": 4
+    },
+    {
+      "source": "linpengl",
+      "target": "linpengl",
+      "value": 4
+    },
+    {
+      "source": "alex",
+      "target": "xfei",
+      "value": 20
+    },
+    {
+      "source": "arjun",
+      "target": "serhiy",
+      "value": 94
+    },
+    {
+      "source": "alexcheng",
+      "target": "jasonk",
+      "value": 8
+    },
+    {
+      "source": "hsiao",
+      "target": "serhiy",
+      "value": 7
+    },
+    {
+      "source": "jmikkola",
+      "target": "weikang",
+      "value": 4
+    },
+    {
+      "source": "andrewlam",
+      "target": "andrewlam",
+      "value": 2
+    },
+    {
+      "source": "jackson",
+      "target": "lingduo.kong",
+      "value": 2
+    },
+    {
+      "source": "andrewlam",
+      "target": "carolina",
+      "value": 4
+    },
+    {
+      "source": "jessie",
+      "target": "tep",
+      "value": 8
+    },
+    {
+      "source": "jinjlu",
+      "target": "pchai",
+      "value": 3
+    },
+    {
+      "source": "sagnik",
+      "target": "sagnik",
+      "value": 5
+    },
+    {
+      "source": "carolshi",
+      "target": "hao89",
+      "value": 3
+    },
+    {
+      "source": "carolina",
+      "target": "leo",
+      "value": 12
+    },
+    {
+      "source": "jasonk",
+      "target": "jsokcevic",
+      "value": 5
+    },
+    {
+      "source": "ibabushkin",
+      "target": "jsokcevic",
+      "value": 28
+    },
+    {
+      "source": "jtsay",
+      "target": "sherring",
+      "value": 5
+    },
+    {
+      "source": "cameron",
+      "target": "dando",
+      "value": 5
+    },
+    {
+      "source": "alee",
+      "target": "rkolluri",
+      "value": 13
+    },
+    {
+      "source": "carolshi",
+      "target": "jmikkola",
+      "value": 4
+    },
+    {
+      "source": "carolshi",
+      "target": "chrisb",
+      "value": 3
+    },
+    {
+      "source": "carolshi",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "serhiy",
+      "value": 3
+    },
+    {
+      "source": "dcapo",
+      "target": "serhiy",
+      "value": 9
+    },
+    {
+      "source": "ibabushkin",
+      "target": "jmikkola",
+      "value": 28
+    },
+    {
+      "source": "jmikkola",
+      "target": "serhiy",
+      "value": 50
+    },
+    {
+      "source": "serhiy",
+      "target": "tim",
+      "value": 22
+    },
+    {
+      "source": "xzhang",
+      "target": "yi",
+      "value": 37
+    },
+    {
+      "source": "liyuanh",
+      "target": "stonezhong",
+      "value": 67
+    },
+    {
+      "source": "pchai",
+      "target": "renal",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "tep",
+      "value": 10
+    },
+    {
+      "source": "jessie",
+      "target": "xzhang",
+      "value": 39
+    },
+    {
+      "source": "alex",
+      "target": "mfa",
+      "value": 32
+    },
+    {
+      "source": "alex",
+      "target": "bharadwaj",
+      "value": 3
+    },
+    {
+      "source": "serhiy",
+      "target": "serhiy",
+      "value": 30
+    },
+    {
+      "source": "peter",
+      "target": "yeming",
+      "value": 5
+    },
+    {
+      "source": "jinjlu",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "peter",
+      "target": "tongyun",
+      "value": 3
+    },
+    {
+      "source": "banderson",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "jsokcevic",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "jinjlu",
+      "target": "tim",
+      "value": 5
+    },
+    {
+      "source": "jinjlu",
+      "target": "jmikkola",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "vduong",
+      "value": 8
+    },
+    {
+      "source": "tim",
+      "target": "vincent",
+      "value": 12
+    },
+    {
+      "source": "hao89",
+      "target": "sethk",
+      "value": 4
+    },
+    {
+      "source": "tracy",
+      "target": "vikram",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "maddie",
+      "value": 6
+    },
+    {
+      "source": "dli",
+      "target": "jmikkola",
+      "value": 14
+    },
+    {
+      "source": "tim",
+      "target": "vikram",
+      "value": 2
+    },
+    {
+      "source": "johnny",
+      "target": "vincent",
+      "value": 8
+    },
+    {
+      "source": "hli",
+      "target": "jsokcevic",
+      "value": 5
+    },
+    {
+      "source": "dli",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "carolshi",
+      "value": 8
+    },
+    {
+      "source": "hsiao",
+      "target": "stonezhong",
+      "value": 2
+    },
+    {
+      "source": "leo",
+      "target": "stonezhong",
+      "value": 23
+    },
+    {
+      "source": "tcao",
+      "target": "tim",
+      "value": 15
+    },
+    {
+      "source": "alexcheng",
+      "target": "sding",
+      "value": 14
+    },
+    {
+      "source": "carter",
+      "target": "lboyer",
+      "value": 4
+    },
+    {
+      "source": "stonezhong",
+      "target": "vincent",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "liyuanh",
+      "value": 6
+    },
+    {
+      "source": "tongyun",
+      "target": "zizheng",
+      "value": 11
+    },
+    {
+      "source": "carter",
+      "target": "jsokcevic",
+      "value": 3
+    },
+    {
+      "source": "dkamalov",
+      "target": "hsiao",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "georgeashworth",
+      "value": 3
+    },
+    {
+      "source": "chrisb",
+      "target": "sding",
+      "value": 21
+    },
+    {
+      "source": "banderson",
+      "target": "cheston",
+      "value": 18
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tongyun",
+      "value": 16
+    },
+    {
+      "source": "arjun",
+      "target": "jsokcevic",
+      "value": 6
+    },
+    {
+      "source": "hli",
+      "target": "vduong",
+      "value": 4
+    },
+    {
+      "source": "pchai",
+      "target": "vikram",
+      "value": 4
+    },
+    {
+      "source": "heidy",
+      "target": "tcao",
+      "value": 7
+    },
+    {
+      "source": "dando",
+      "target": "leo",
+      "value": 4
+    },
+    {
+      "source": "andrewlam",
+      "target": "lgong",
+      "value": 5
+    },
+    {
+      "source": "carolina",
+      "target": "rkolluri",
+      "value": 6
+    },
+    {
+      "source": "glen",
+      "target": "richard",
+      "value": 16
+    },
+    {
+      "source": "dcapo",
+      "target": "tcao",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "ibabushkin",
+      "value": 2
+    },
+    {
+      "source": "jwu",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "jwu",
+      "value": 6
+    },
+    {
+      "source": "hsiao",
+      "target": "jwu",
+      "value": 3
+    },
+    {
+      "source": "banderson",
+      "target": "hpanchal",
+      "value": 25
+    },
+    {
+      "source": "dkamalov",
+      "target": "jmikkola",
+      "value": 7
+    },
+    {
+      "source": "alexcheng",
+      "target": "vduong",
+      "value": 6
+    },
+    {
+      "source": "jma",
+      "target": "jsokcevic",
+      "value": 5
+    },
+    {
+      "source": "jsokcevic",
+      "target": "serhiy",
+      "value": 8
+    },
+    {
+      "source": "felipe",
+      "target": "jessie",
+      "value": 7
+    },
+    {
+      "source": "carolshi",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "peter",
+      "target": "tracy",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "carolina",
+      "value": 13
+    },
+    {
+      "source": "dli",
+      "target": "hao",
+      "value": 2
+    },
+    {
+      "source": "nmcquay",
+      "target": "sumit",
+      "value": 4
+    },
+    {
+      "source": "chrisb",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "jwu",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "yifei",
+      "value": 3
+    },
+    {
+      "source": "dylan",
+      "target": "jwu",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "yifei",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "zizheng",
+      "value": 2
+    },
+    {
+      "source": "jwu",
+      "target": "jwu",
+      "value": 3
+    },
+    {
+      "source": "cameron",
+      "target": "jmikkola",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "james.johnston",
+      "value": 2
+    },
+    {
+      "source": "nmcquay",
+      "target": "xzhang",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "serhiy",
+      "value": 20
+    },
+    {
+      "source": "alee",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "zizheng",
+      "value": 7
+    },
+    {
+      "source": "glen",
+      "target": "mfa",
+      "value": 39
+    },
+    {
+      "source": "lboyer",
+      "target": "richard",
+      "value": 13
+    },
+    {
+      "source": "dli",
+      "target": "fengnan",
+      "value": 34
+    },
+    {
+      "source": "jinjlu",
+      "target": "sding",
+      "value": 5
+    },
+    {
+      "source": "alee",
+      "target": "stonezhong",
+      "value": 4
+    },
+    {
+      "source": "banderson",
+      "target": "hli",
+      "value": 3
+    },
+    {
+      "source": "kamal",
+      "target": "kamal",
+      "value": 2
+    },
+    {
+      "source": "lboyer",
+      "target": "serhiy",
+      "value": 5
+    },
+    {
+      "source": "giles",
+      "target": "serhiy",
+      "value": 12
+    },
+    {
+      "source": "johnny",
+      "target": "rkolluri",
+      "value": 2
+    },
+    {
+      "source": "dli",
+      "target": "peter",
+      "value": 3
+    },
+    {
+      "source": "marianosimone",
+      "target": "neha",
+      "value": 5
+    },
+    {
+      "source": "dando",
+      "target": "lboyer",
+      "value": 14
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tcao",
+      "value": 4
+    },
+    {
+      "source": "dando",
+      "target": "gpantazis",
+      "value": 6
+    },
+    {
+      "source": "bryan",
+      "target": "gpantazis",
+      "value": 66
+    },
+    {
+      "source": "giles",
+      "target": "gpantazis",
+      "value": 18
+    },
+    {
+      "source": "gpantazis",
+      "target": "tim",
+      "value": 24
+    },
+    {
+      "source": "jasonk",
+      "target": "tom",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "jsokcevic",
+      "value": 14
+    },
+    {
+      "source": "dylan",
+      "target": "xfei",
+      "value": 18
+    },
+    {
+      "source": "marianosimone",
+      "target": "renal",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tejal",
+      "value": 4
+    },
+    {
+      "source": "lboyer",
+      "target": "leo",
+      "value": 4
+    },
+    {
+      "source": "arjun",
+      "target": "zizheng",
+      "value": 3
+    },
+    {
+      "source": "alee",
+      "target": "tejal",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "vikram",
+      "value": 8
+    },
+    {
+      "source": "sherring",
+      "target": "yi",
+      "value": 3
+    },
+    {
+      "source": "tli",
+      "target": "weikang",
+      "value": 10
+    },
+    {
+      "source": "linpengl",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "glen",
+      "target": "glen",
+      "value": 12
+    },
+    {
+      "source": "glen",
+      "target": "gpantazis",
+      "value": 4
+    },
+    {
+      "source": "gpantazis",
+      "target": "gpantazis",
+      "value": 75
+    },
+    {
+      "source": "dcapo",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "alee",
+      "target": "tli",
+      "value": 4
+    },
+    {
+      "source": "dando",
+      "target": "tli",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "yifei",
+      "value": 2
+    },
+    {
+      "source": "fengnan",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "neha",
+      "value": 5
+    },
+    {
+      "source": "evan",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "fengnan",
+      "target": "neha",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tracy",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "giles",
+      "value": 3
+    },
+    {
+      "source": "jsokcevic",
+      "target": "neha",
+      "value": 7
+    },
+    {
+      "source": "serhiy",
+      "target": "zizheng",
+      "value": 2
+    },
+    {
+      "source": "tli",
+      "target": "tli",
+      "value": 12
+    },
+    {
+      "source": "dando",
+      "target": "tejal",
+      "value": 2
+    },
+    {
+      "source": "rkolluri",
+      "target": "stonezhong",
+      "value": 5
+    },
+    {
+      "source": "carolina",
+      "target": "vincent",
+      "value": 4
+    },
+    {
+      "source": "sagnik",
+      "target": "vicliu",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "rkolluri",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "kamal",
+      "value": 4
+    },
+    {
+      "source": "xfei",
+      "target": "xfei",
+      "value": 71
+    },
+    {
+      "source": "tim",
+      "target": "xfei",
+      "value": 83
+    },
+    {
+      "source": "carolshi",
+      "target": "tongyun",
+      "value": 23
+    },
+    {
+      "source": "fengnan",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "lboyer",
+      "target": "stonezhong",
+      "value": 22
+    },
+    {
+      "source": "jsokcevic",
+      "target": "lboyer",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "sding",
+      "value": 11
+    },
+    {
+      "source": "johnny",
+      "target": "leo",
+      "value": 2
+    },
+    {
+      "source": "leo",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "heidy",
+      "value": 46
+    },
+    {
+      "source": "dylan",
+      "target": "linpengl",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "maddie",
+      "value": 4
+    },
+    {
+      "source": "andrewlam",
+      "target": "kamal",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "carolshi",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "efujimoto",
+      "value": 26
+    },
+    {
+      "source": "carolshi",
+      "target": "jma",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "maddie",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "tli",
+      "value": 22
+    },
+    {
+      "source": "tli",
+      "target": "vincent",
+      "value": 3
+    },
+    {
+      "source": "doconnor",
+      "target": "jasonk",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "liyuanh",
+      "value": 3
+    },
+    {
+      "source": "liyuanh",
+      "target": "tli",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "tracy",
+      "value": 6
+    },
+    {
+      "source": "jmikkola",
+      "target": "peter",
+      "value": 13
+    },
+    {
+      "source": "alex",
+      "target": "jeremye",
+      "value": 5
+    },
+    {
+      "source": "denys",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "alee",
+      "target": "jessie",
+      "value": 3
+    },
+    {
+      "source": "giles",
+      "target": "hao89",
+      "value": 2
+    },
+    {
+      "source": "jinjlu",
+      "target": "jtsay",
+      "value": 15
+    },
+    {
+      "source": "kamal",
+      "target": "wpeng",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "wpeng",
+      "value": 32
+    },
+    {
+      "source": "jsokcevic",
+      "target": "jtsay",
+      "value": 12
+    },
+    {
+      "source": "ccornelis",
+      "target": "jasonk",
+      "value": 7
+    },
+    {
+      "source": "alexcheng",
+      "target": "bknight",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "sagnik",
+      "value": 12
+    },
+    {
+      "source": "bknight",
+      "target": "tgnourse",
+      "value": 2
+    },
+    {
+      "source": "stonezhong",
+      "target": "stonezhong",
+      "value": 9
+    },
+    {
+      "source": "glen",
+      "target": "nmcquay",
+      "value": 14
+    },
+    {
+      "source": "alex",
+      "target": "tcao",
+      "value": 22
+    },
+    {
+      "source": "jma",
+      "target": "xfei",
+      "value": 65
+    },
+    {
+      "source": "ford",
+      "target": "lingduo.kong",
+      "value": 78
+    },
+    {
+      "source": "ford",
+      "target": "jasonk",
+      "value": 18
+    },
+    {
+      "source": "fengnan",
+      "target": "vicliu",
+      "value": 4
+    },
+    {
+      "source": "alexcheng",
+      "target": "jinjlu",
+      "value": 2
+    },
+    {
+      "source": "jessie",
+      "target": "xfei",
+      "value": 5
+    },
+    {
+      "source": "hsiao",
+      "target": "xfei",
+      "value": 4
+    },
+    {
+      "source": "neha",
+      "target": "xfei",
+      "value": 119
+    },
+    {
+      "source": "alee",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "ford",
+      "value": 95
+    },
+    {
+      "source": "doconnor",
+      "target": "weikang",
+      "value": 3
+    },
+    {
+      "source": "ford",
+      "target": "hli",
+      "value": 38
+    },
+    {
+      "source": "banderson",
+      "target": "jasonk",
+      "value": 18
+    },
+    {
+      "source": "bknight",
+      "target": "evan",
+      "value": 7
+    },
+    {
+      "source": "cpak",
+      "target": "glen",
+      "value": 11
+    },
+    {
+      "source": "jmikkola",
+      "target": "wpeng",
+      "value": 10
+    },
+    {
+      "source": "glen",
+      "target": "wpeng",
+      "value": 2
+    },
+    {
+      "source": "sding",
+      "target": "tep",
+      "value": 3
+    },
+    {
+      "source": "alexcheng",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "dkamalov",
+      "target": "maddie",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "jma",
+      "target": "jorge",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "bryan",
+      "value": 4
+    },
+    {
+      "source": "heidy",
+      "target": "richard",
+      "value": 55
+    },
+    {
+      "source": "neha",
+      "target": "pchai",
+      "value": 3
+    },
+    {
+      "source": "leo",
+      "target": "nmcquay",
+      "value": 70
+    },
+    {
+      "source": "hzeng",
+      "target": "jessie",
+      "value": 5
+    },
+    {
+      "source": "tep",
+      "target": "xzhang",
+      "value": 5
+    },
+    {
+      "source": "ford",
+      "target": "tom",
+      "value": 4
+    },
+    {
+      "source": "banderson",
+      "target": "xzhang",
+      "value": 11
+    },
+    {
+      "source": "serhiy",
+      "target": "xfei",
+      "value": 94
+    },
+    {
+      "source": "jsokcevic",
+      "target": "vduong",
+      "value": 7
+    },
+    {
+      "source": "alex",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "jsokcevic",
+      "value": 5
+    },
+    {
+      "source": "cameron",
+      "target": "dylan",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "dkamalov",
+      "value": 4
+    },
+    {
+      "source": "tcao",
+      "target": "tongyun",
+      "value": 7
+    },
+    {
+      "source": "hli",
+      "target": "wpeng",
+      "value": 80
+    },
+    {
+      "source": "glen",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "sding",
+      "value": 4
+    },
+    {
+      "source": "hli",
+      "target": "tracy",
+      "value": 5
+    },
+    {
+      "source": "dcapo",
+      "target": "tom",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "evan",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "xfei",
+      "value": 3
+    },
+    {
+      "source": "neha",
+      "target": "tracy",
+      "value": 7
+    },
+    {
+      "source": "nmcquay",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "glen",
+      "value": 12
+    },
+    {
+      "source": "hzeng",
+      "target": "pchai",
+      "value": 3
+    },
+    {
+      "source": "lingduo.kong",
+      "target": "wpeng",
+      "value": 10
+    },
+    {
+      "source": "banderson",
+      "target": "xin",
+      "value": 3
+    },
+    {
+      "source": "dcapo",
+      "target": "pchai",
+      "value": 2
+    },
+    {
+      "source": "doconnor",
+      "target": "serhiy",
+      "value": 3
+    },
+    {
+      "source": "pchai",
+      "target": "tep",
+      "value": 5
+    },
+    {
+      "source": "johnny",
+      "target": "liyuanh",
+      "value": 3
+    },
+    {
+      "source": "dylan",
+      "target": "ford",
+      "value": 2
+    },
+    {
+      "source": "ford",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "yi",
+      "value": 4
+    },
+    {
+      "source": "tep",
+      "target": "yi",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "tim",
+      "value": 3
+    },
+    {
+      "source": "tpan",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "dylan",
+      "value": 2
+    },
+    {
+      "source": "denys",
+      "target": "preetam",
+      "value": 2
+    },
+    {
+      "source": "glen",
+      "target": "tli",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "zizheng",
+      "value": 2
+    },
+    {
+      "source": "james.johnston",
+      "target": "jtsay",
+      "value": 11
+    },
+    {
+      "source": "james.johnston",
+      "target": "yi",
+      "value": 9
+    },
+    {
+      "source": "alex",
+      "target": "tracy",
+      "value": 12
+    },
+    {
+      "source": "sherring",
+      "target": "trotter",
+      "value": 2
+    },
+    {
+      "source": "tcao",
+      "target": "xfei",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "xzhang",
+      "value": 10
+    },
+    {
+      "source": "glen",
+      "target": "vikram",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "jtsay",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "tep",
+      "value": 35
+    },
+    {
+      "source": "marianosimone",
+      "target": "stonezhong",
+      "value": 8
+    },
+    {
+      "source": "cpak",
+      "target": "hpanchal",
+      "value": 14
+    },
+    {
+      "source": "alex",
+      "target": "carolina",
+      "value": 24
+    },
+    {
+      "source": "doconnor",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "cpak",
+      "value": 12
+    },
+    {
+      "source": "sagnik",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "jeremye",
+      "value": 2
+    },
+    {
+      "source": "rkolluri",
+      "target": "tli",
+      "value": 3
+    },
+    {
+      "source": "glen",
+      "target": "jeremye",
+      "value": 5
+    },
+    {
+      "source": "banderson",
+      "target": "sding",
+      "value": 9
+    },
+    {
+      "source": "carolshi",
+      "target": "yifei",
+      "value": 6
+    },
+    {
+      "source": "bryan",
+      "target": "ticarter",
+      "value": 50
+    },
+    {
+      "source": "evan",
+      "target": "ford",
+      "value": 23
+    },
+    {
+      "source": "doconnor",
+      "target": "xfei",
+      "value": 5
+    },
+    {
+      "source": "glen",
+      "target": "jtsay",
+      "value": 5
+    },
+    {
+      "source": "cheston",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "glen",
+      "target": "venky",
+      "value": 13
+    },
+    {
+      "source": "mfa",
+      "target": "wpeng",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "tep",
+      "value": 21
+    },
+    {
+      "source": "preetam",
+      "target": "sding",
+      "value": 8
+    },
+    {
+      "source": "hsiao",
+      "target": "tcao",
+      "value": 7
+    },
+    {
+      "source": "ibabushkin",
+      "target": "xin",
+      "value": 13
+    },
+    {
+      "source": "hao",
+      "target": "pchai",
+      "value": 5
+    },
+    {
+      "source": "tli",
+      "target": "xin",
+      "value": 19
+    },
+    {
+      "source": "carolshi",
+      "target": "jorge",
+      "value": 26
+    },
+    {
+      "source": "evan",
+      "target": "tgnourse",
+      "value": 2
+    },
+    {
+      "source": "chrisb",
+      "target": "lboyer",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "james.johnston",
+      "value": 13
+    },
+    {
+      "source": "dando",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "heidy",
+      "target": "xfei",
+      "value": 5
+    },
+    {
+      "source": "hsiao",
+      "target": "ticarter",
+      "value": 56
+    },
+    {
+      "source": "ford",
+      "target": "ticarter",
+      "value": 10
+    },
+    {
+      "source": "dcapo",
+      "target": "ticarter",
+      "value": 60
+    },
+    {
+      "source": "cpak",
+      "target": "hsiao",
+      "value": 2
+    },
+    {
+      "source": "sherring",
+      "target": "vduong",
+      "value": 4
+    },
+    {
+      "source": "hli",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "cpak",
+      "target": "dando",
+      "value": 14
+    },
+    {
+      "source": "james.johnston",
+      "target": "yeming",
+      "value": 2
+    },
+    {
+      "source": "cpak",
+      "target": "jmikkola",
+      "value": 8
+    },
+    {
+      "source": "dando",
+      "target": "ibabushkin",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "ticarter",
+      "value": 76
+    },
+    {
+      "source": "dando",
+      "target": "xzhang",
+      "value": 2
+    },
+    {
+      "source": "cpak",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "carolshi",
+      "value": 8
+    },
+    {
+      "source": "gpantazis",
+      "target": "leo",
+      "value": 24
+    },
+    {
+      "source": "james.johnston",
+      "target": "jessie",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "ticarter",
+      "value": 17
+    },
+    {
+      "source": "ticarter",
+      "target": "tim",
+      "value": 35
+    },
+    {
+      "source": "jasonk",
+      "target": "preetam",
+      "value": 2
+    },
+    {
+      "source": "tcao",
+      "target": "ticarter",
+      "value": 17
+    },
+    {
+      "source": "carolshi",
+      "target": "kelvsyc",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "tli",
+      "value": 16
+    },
+    {
+      "source": "tep",
+      "target": "tgnourse",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "serhiy",
+      "value": 9
+    },
+    {
+      "source": "fkam",
+      "target": "heidy",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "hao",
+      "value": 5
+    },
+    {
+      "source": "mschaaf",
+      "target": "tgnourse",
+      "value": 3
+    },
+    {
+      "source": "marianosimone",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "marianosimone",
+      "target": "peter",
+      "value": 7
+    },
+    {
+      "source": "tongyun",
+      "target": "vicliu",
+      "value": 4
+    },
+    {
+      "source": "alexcheng",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "renal",
+      "target": "ticarter",
+      "value": 10
+    },
+    {
+      "source": "bryan",
+      "target": "tep",
+      "value": 3
+    },
+    {
+      "source": "carolshi",
+      "target": "sumit",
+      "value": 10
+    },
+    {
+      "source": "felipe",
+      "target": "sherring",
+      "value": 8
+    },
+    {
+      "source": "nmcquay",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "dylan",
+      "target": "jorge",
+      "value": 3
+    },
+    {
+      "source": "felipe",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "xfei",
+      "value": 140
+    },
+    {
+      "source": "glen",
+      "target": "tcao",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "tcao",
+      "value": 15
+    },
+    {
+      "source": "arjun",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "vicliu",
+      "value": 5
+    },
+    {
+      "source": "glen",
+      "target": "jorge",
+      "value": 10
+    },
+    {
+      "source": "heidy",
+      "target": "ticarter",
+      "value": 7
+    },
+    {
+      "source": "cpak",
+      "target": "efujimoto",
+      "value": 44
+    },
+    {
+      "source": "dando",
+      "target": "glen",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "cpak",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "tgnourse",
+      "value": 7
+    },
+    {
+      "source": "sding",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "glen",
+      "target": "james.johnston",
+      "value": 2
+    },
+    {
+      "source": "rkolluri",
+      "target": "xin",
+      "value": 4
+    },
+    {
+      "source": "dli",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "ticarter",
+      "value": 4
+    },
+    {
+      "source": "ticarter",
+      "target": "vincent",
+      "value": 5
+    },
+    {
+      "source": "fengnan",
+      "target": "jasonk",
+      "value": 21
+    },
+    {
+      "source": "alexcheng",
+      "target": "jsokcevic",
+      "value": 2
+    },
+    {
+      "source": "serhiy",
+      "target": "ticarter",
+      "value": 40
+    },
+    {
+      "source": "stonezhong",
+      "target": "tli",
+      "value": 5
+    },
+    {
+      "source": "liyuanh",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "bryan",
+      "target": "fengnan",
+      "value": 4
+    },
+    {
+      "source": "cpak",
+      "target": "jma",
+      "value": 2
+    },
+    {
+      "source": "hli",
+      "target": "tejal",
+      "value": 48
+    },
+    {
+      "source": "fkam",
+      "target": "marianosimone",
+      "value": 2
+    },
+    {
+      "source": "carolina",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "cameron",
+      "target": "hao",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "heidy",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "jasonk",
+      "value": 9
+    },
+    {
+      "source": "ford",
+      "target": "hsiao",
+      "value": 3
+    },
+    {
+      "source": "glen",
+      "target": "maddie",
+      "value": 4
+    },
+    {
+      "source": "cheston",
+      "target": "tpan",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "felipe",
+      "value": 4
+    },
+    {
+      "source": "james.johnston",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "nmcquay",
+      "target": "serhiy",
+      "value": 5
+    },
+    {
+      "source": "neha",
+      "target": "ticarter",
+      "value": 13
+    },
+    {
+      "source": "gpantazis",
+      "target": "vincent",
+      "value": 4
+    },
+    {
+      "source": "hli",
+      "target": "sagnik",
+      "value": 7
+    },
+    {
+      "source": "rkolluri",
+      "target": "sku",
+      "value": 3
+    },
+    {
+      "source": "jtsay",
+      "target": "vduong",
+      "value": 7
+    },
+    {
+      "source": "gpantazis",
+      "target": "jmikkola",
+      "value": 16
+    },
+    {
+      "source": "dli",
+      "target": "evan",
+      "value": 2
+    },
+    {
+      "source": "tep",
+      "target": "tim",
+      "value": 2
+    },
+    {
+      "source": "james.johnston",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "hao",
+      "target": "xzhang",
+      "value": 5
+    },
+    {
+      "source": "yeming",
+      "target": "yeming",
+      "value": 31
+    },
+    {
+      "source": "fengnan",
+      "target": "tracy",
+      "value": 10
+    },
+    {
+      "source": "leo",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "alee",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "tep",
+      "target": "weikang",
+      "value": 41
+    },
+    {
+      "source": "hao",
+      "target": "jasonk",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "banderson",
+      "value": 6
+    },
+    {
+      "source": "jmikkola",
+      "target": "tejal",
+      "value": 10
+    },
+    {
+      "source": "hli",
+      "target": "maddie",
+      "value": 21
+    },
+    {
+      "source": "ford",
+      "target": "tejal",
+      "value": 25
+    },
+    {
+      "source": "dkamalov",
+      "target": "serhiy",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "sding",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "jinjlu",
+      "target": "maddie",
+      "value": 6
+    },
+    {
+      "source": "dli",
+      "target": "mdu",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "carolina",
+      "value": 3
+    },
+    {
+      "source": "dylan",
+      "target": "serhiy",
+      "value": 10
+    },
+    {
+      "source": "cameron",
+      "target": "neha",
+      "value": 2
+    },
+    {
+      "source": "swati",
+      "target": "weikang",
+      "value": 23
+    },
+    {
+      "source": "dcapo",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "banderson",
+      "target": "tep",
+      "value": 4
+    },
+    {
+      "source": "jones",
+      "target": "jones",
+      "value": 7
+    },
+    {
+      "source": "jones",
+      "target": "jtsay",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "maddie",
+      "value": 6
+    },
+    {
+      "source": "ford",
+      "target": "giles",
+      "value": 3
+    },
+    {
+      "source": "jinjlu",
+      "target": "weikang",
+      "value": 10
+    },
+    {
+      "source": "fengnan",
+      "target": "giles",
+      "value": 4
+    },
+    {
+      "source": "serhiy",
+      "target": "xin",
+      "value": 4
+    },
+    {
+      "source": "heidy",
+      "target": "nmcquay",
+      "value": 6
+    },
+    {
+      "source": "bryan",
+      "target": "mfa",
+      "value": 3
+    },
+    {
+      "source": "jasonk",
+      "target": "jtsay",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "tep",
+      "value": 25
+    },
+    {
+      "source": "bryan",
+      "target": "tracy",
+      "value": 3
+    },
+    {
+      "source": "andrewlam",
+      "target": "mfa",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "xin",
+      "value": 4
+    },
+    {
+      "source": "cheston",
+      "target": "weikang",
+      "value": 25
+    },
+    {
+      "source": "jessie",
+      "target": "jones",
+      "value": 63
+    },
+    {
+      "source": "glen",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "kamal",
+      "target": "tongyun",
+      "value": 3
+    },
+    {
+      "source": "alee",
+      "target": "ibabushkin",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "nmcquay",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "jones",
+      "value": 64
+    },
+    {
+      "source": "banderson",
+      "target": "efujimoto",
+      "value": 5
+    },
+    {
+      "source": "banderson",
+      "target": "giles",
+      "value": 2
+    },
+    {
+      "source": "alexcheng",
+      "target": "yi",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "weikang",
+      "value": 3
+    },
+    {
+      "source": "cpak",
+      "target": "sding",
+      "value": 28
+    },
+    {
+      "source": "jones",
+      "target": "pchai",
+      "value": 16
+    },
+    {
+      "source": "tejal",
+      "target": "wpeng",
+      "value": 46
+    },
+    {
+      "source": "sagnik",
+      "target": "tracy",
+      "value": 13
+    },
+    {
+      "source": "banderson",
+      "target": "weikang",
+      "value": 20
+    },
+    {
+      "source": "dylan",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "lboyer",
+      "target": "lboyer",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "tpan",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "stonezhong",
+      "value": 3
+    },
+    {
+      "source": "lingduo.kong",
+      "target": "tejal",
+      "value": 11
+    },
+    {
+      "source": "jsokcevic",
+      "target": "xfei",
+      "value": 8
+    },
+    {
+      "source": "evan",
+      "target": "richard",
+      "value": 6
+    },
+    {
+      "source": "tommy",
+      "target": "tommy",
+      "value": 25
+    },
+    {
+      "source": "ticarter",
+      "target": "tommy",
+      "value": 20
+    },
+    {
+      "source": "jmikkola",
+      "target": "tracy",
+      "value": 4
+    },
+    {
+      "source": "evan",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "evan",
+      "target": "tommy",
+      "value": 48
+    },
+    {
+      "source": "alexcheng",
+      "target": "tommy",
+      "value": 15
+    },
+    {
+      "source": "cheston",
+      "target": "cpak",
+      "value": 8
+    },
+    {
+      "source": "jmikkola",
+      "target": "xfei",
+      "value": 63
+    },
+    {
+      "source": "weikang",
+      "target": "wzhang",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "tommy",
+      "value": 9
+    },
+    {
+      "source": "jones",
+      "target": "yi",
+      "value": 12
+    },
+    {
+      "source": "cheston",
+      "target": "jones",
+      "value": 6
+    },
+    {
+      "source": "jtsay",
+      "target": "weikang",
+      "value": 34
+    },
+    {
+      "source": "ford",
+      "target": "wpeng",
+      "value": 12
+    },
+    {
+      "source": "marianosimone",
+      "target": "ticarter",
+      "value": 6
+    },
+    {
+      "source": "jmikkola",
+      "target": "xing",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "jones",
+      "value": 30
+    },
+    {
+      "source": "efujimoto",
+      "target": "tommy",
+      "value": 2
+    },
+    {
+      "source": "cpak",
+      "target": "tommy",
+      "value": 3
+    },
+    {
+      "source": "hli",
+      "target": "wzhang",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "tommy",
+      "value": 32
+    },
+    {
+      "source": "dli",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "cpak",
+      "target": "jones",
+      "value": 28
+    },
+    {
+      "source": "tep",
+      "target": "vduong",
+      "value": 6
+    },
+    {
+      "source": "cpak",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "nmcquay",
+      "value": 15
+    },
+    {
+      "source": "jessie",
+      "target": "tommy",
+      "value": 5
+    },
+    {
+      "source": "jinjlu",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "tommy",
+      "value": 4
+    },
+    {
+      "source": "peter",
+      "target": "tommy",
+      "value": 9
+    },
+    {
+      "source": "jasonk",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "wzhang",
+      "value": 6
+    },
+    {
+      "source": "james.johnston",
+      "target": "weikang",
+      "value": 3
+    },
+    {
+      "source": "richard",
+      "target": "tli",
+      "value": 5
+    },
+    {
+      "source": "bryan",
+      "target": "jones",
+      "value": 5
+    },
+    {
+      "source": "ford",
+      "target": "sagnik",
+      "value": 4
+    },
+    {
+      "source": "maddie",
+      "target": "tommy",
+      "value": 51
+    },
+    {
+      "source": "sding",
+      "target": "xing",
+      "value": 11
+    },
+    {
+      "source": "cameron",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "cameron",
+      "target": "efujimoto",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "ibabushkin",
+      "value": 29
+    },
+    {
+      "source": "banderson",
+      "target": "sagnik",
+      "value": 5
+    },
+    {
+      "source": "leo",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "stonezhong",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "wzhang",
+      "value": 3
+    },
+    {
+      "source": "hpanchal",
+      "target": "sagnik",
+      "value": 7
+    },
+    {
+      "source": "vikram",
+      "target": "xzhang",
+      "value": 6
+    },
+    {
+      "source": "jtsay",
+      "target": "xfei",
+      "value": 17
+    },
+    {
+      "source": "jasonk",
+      "target": "tommy",
+      "value": 6
+    },
+    {
+      "source": "efujimoto",
+      "target": "felipe",
+      "value": 3
+    },
+    {
+      "source": "efujimoto",
+      "target": "hao",
+      "value": 3
+    },
+    {
+      "source": "dli",
+      "target": "yeming",
+      "value": 2
+    },
+    {
+      "source": "tracy",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "dli",
+      "value": 9
+    },
+    {
+      "source": "alex",
+      "target": "slin",
+      "value": 10
+    },
+    {
+      "source": "hpanchal",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "tracy",
+      "value": 26
+    },
+    {
+      "source": "heidy",
+      "target": "vincent",
+      "value": 6
+    },
+    {
+      "source": "cheston",
+      "target": "vikram",
+      "value": 2
+    },
+    {
+      "source": "jeremye",
+      "target": "richard",
+      "value": 3
+    },
+    {
+      "source": "hpanchal",
+      "target": "jones",
+      "value": 23
+    },
+    {
+      "source": "ibabushkin",
+      "target": "liyuanh",
+      "value": 2
+    },
+    {
+      "source": "tommy",
+      "target": "xfei",
+      "value": 9
+    },
+    {
+      "source": "evan",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "jones",
+      "target": "xzhang",
+      "value": 35
+    },
+    {
+      "source": "sherring",
+      "target": "tpan",
+      "value": 4
+    },
+    {
+      "source": "wpeng",
+      "target": "wpeng",
+      "value": 16
+    },
+    {
+      "source": "ibabushkin",
+      "target": "stonezhong",
+      "value": 14
+    },
+    {
+      "source": "marianosimone",
+      "target": "serhiy",
+      "value": 3
+    },
+    {
+      "source": "gpantazis",
+      "target": "ticarter",
+      "value": 23
+    },
+    {
+      "source": "jones",
+      "target": "xing",
+      "value": 18
+    },
+    {
+      "source": "heidy",
+      "target": "leo",
+      "value": 3
+    },
+    {
+      "source": "james.johnston",
+      "target": "slin",
+      "value": 5
+    },
+    {
+      "source": "preetam",
+      "target": "yeming",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "sding",
+      "value": 9
+    },
+    {
+      "source": "giles",
+      "target": "ticarter",
+      "value": 62
+    },
+    {
+      "source": "fengnan",
+      "target": "hpanchal",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "wzhang",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "wzhang",
+      "value": 3
+    },
+    {
+      "source": "leo",
+      "target": "xfei",
+      "value": 6
+    },
+    {
+      "source": "sherring",
+      "target": "sherring",
+      "value": 3
+    },
+    {
+      "source": "jones",
+      "target": "vikram",
+      "value": 4
+    },
+    {
+      "source": "giles",
+      "target": "xfei",
+      "value": 13
+    },
+    {
+      "source": "alex",
+      "target": "hpanchal",
+      "value": 6
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tommy",
+      "value": 3
+    },
+    {
+      "source": "evan",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "jeremye",
+      "target": "jeremye",
+      "value": 8
+    },
+    {
+      "source": "heidy",
+      "target": "serhiy",
+      "value": 7
+    },
+    {
+      "source": "jtsay",
+      "target": "tommy",
+      "value": 41
+    },
+    {
+      "source": "alee",
+      "target": "heidy",
+      "value": 11
+    },
+    {
+      "source": "jeremye",
+      "target": "vincent",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "jorge",
+      "value": 16
+    },
+    {
+      "source": "hpanchal",
+      "target": "jorge",
+      "value": 6
+    },
+    {
+      "source": "banderson",
+      "target": "rkolluri",
+      "value": 2
+    },
+    {
+      "source": "dkamalov",
+      "target": "venky",
+      "value": 3
+    },
+    {
+      "source": "jeremye",
+      "target": "mfa",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "xfei",
+      "value": 10
+    },
+    {
+      "source": "preetam",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "tongyun",
+      "target": "yeming",
+      "value": 5
+    },
+    {
+      "source": "dli",
+      "target": "hpanchal",
+      "value": 9
+    },
+    {
+      "source": "wzhang",
+      "target": "wzhang",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "jeremye",
+      "target": "jsokcevic",
+      "value": 12
+    },
+    {
+      "source": "jtsay",
+      "target": "renal",
+      "value": 8
+    },
+    {
+      "source": "jeremye",
+      "target": "nmcquay",
+      "value": 5
+    },
+    {
+      "source": "jasonk",
+      "target": "jones",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "slin",
+      "value": 3
+    },
+    {
+      "source": "jones",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "jones",
+      "target": "preetam",
+      "value": 3
+    },
+    {
+      "source": "ibabushkin",
+      "target": "tli",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "wzhang",
+      "value": 22
+    },
+    {
+      "source": "lboyer",
+      "target": "nmcquay",
+      "value": 2
+    },
+    {
+      "source": "cheston",
+      "target": "richard",
+      "value": 4
+    },
+    {
+      "source": "alexwice",
+      "target": "swati",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "xin",
+      "value": 8
+    },
+    {
+      "source": "sku",
+      "target": "stonezhong",
+      "value": 6
+    },
+    {
+      "source": "slin",
+      "target": "tommy",
+      "value": 45
+    },
+    {
+      "source": "ford",
+      "target": "ford",
+      "value": 3
+    },
+    {
+      "source": "slin",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "jasonk",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "jsokcevic",
+      "value": 9
+    },
+    {
+      "source": "maddie",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "rkolluri",
+      "value": 2
+    },
+    {
+      "source": "dando",
+      "target": "stonezhong",
+      "value": 6
+    },
+    {
+      "source": "leo",
+      "target": "tli",
+      "value": 60
+    },
+    {
+      "source": "jessie",
+      "target": "vincent",
+      "value": 2
+    },
+    {
+      "source": "carolshi",
+      "target": "tcao",
+      "value": 2
+    },
+    {
+      "source": "marianosimone",
+      "target": "xin",
+      "value": 4
+    },
+    {
+      "source": "felipe",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "tejal",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "jeremye",
+      "target": "jmikkola",
+      "value": 17
+    },
+    {
+      "source": "ford",
+      "target": "gpantazis",
+      "value": 8
+    },
+    {
+      "source": "jsokcevic",
+      "target": "leo",
+      "value": 4
+    },
+    {
+      "source": "alexwice",
+      "target": "cheston",
+      "value": 3
+    },
+    {
+      "source": "lingduo.kong",
+      "target": "tim",
+      "value": 3
+    },
+    {
+      "source": "banderson",
+      "target": "maddie",
+      "value": 3
+    },
+    {
+      "source": "jorge",
+      "target": "tcao",
+      "value": 88
+    },
+    {
+      "source": "banderson",
+      "target": "serhiy",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "tommy",
+      "value": 11
+    },
+    {
+      "source": "hli",
+      "target": "swati",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "jones",
+      "value": 38
+    },
+    {
+      "source": "glen",
+      "target": "jones",
+      "value": 12
+    },
+    {
+      "source": "alex",
+      "target": "gpantazis",
+      "value": 9
+    },
+    {
+      "source": "slin",
+      "target": "swati",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "hao",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "stonezhong",
+      "value": 4
+    },
+    {
+      "source": "tep",
+      "target": "tpan",
+      "value": 4
+    },
+    {
+      "source": "giles",
+      "target": "tommy",
+      "value": 30
+    },
+    {
+      "source": "ticarter",
+      "target": "tongyun",
+      "value": 3
+    },
+    {
+      "source": "jtsay",
+      "target": "leo",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "cameron",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "peter",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "tracy",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "wzhang",
+      "value": 4
+    },
+    {
+      "source": "cpak",
+      "target": "xing",
+      "value": 5
+    },
+    {
+      "source": "xing",
+      "target": "yeming",
+      "value": 12
+    },
+    {
+      "source": "jessie",
+      "target": "xing",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "wzhang",
+      "value": 3
+    },
+    {
+      "source": "fkam",
+      "target": "tep",
+      "value": 5
+    },
+    {
+      "source": "felipe",
+      "target": "vduong",
+      "value": 3
+    },
+    {
+      "source": "hpanchal",
+      "target": "vicliu",
+      "value": 3
+    },
+    {
+      "source": "andrewlam",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "tgnourse",
+      "value": 4
+    },
+    {
+      "source": "vicliu",
+      "target": "yeming",
+      "value": 3
+    },
+    {
+      "source": "jones",
+      "target": "yeming",
+      "value": 6
+    },
+    {
+      "source": "sumit",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "jmikkola",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "yeming",
+      "value": 10
+    },
+    {
+      "source": "alex",
+      "target": "xing",
+      "value": 5
+    },
+    {
+      "source": "sherring",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "tli",
+      "value": 4
+    },
+    {
+      "source": "jsokcevic",
+      "target": "weikang",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "xfei",
+      "value": 5
+    },
+    {
+      "source": "andrewlam",
+      "target": "nate",
+      "value": 4
+    },
+    {
+      "source": "jmikkola",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "efujimoto",
+      "value": 2
+    },
+    {
+      "source": "swati",
+      "target": "tommy",
+      "value": 5
+    },
+    {
+      "source": "mdu",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "jmikkola",
+      "target": "slin",
+      "value": 8
+    },
+    {
+      "source": "slin",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "slin",
+      "value": 7
+    },
+    {
+      "source": "banderson",
+      "target": "heidy",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "jones",
+      "value": 5
+    },
+    {
+      "source": "jones",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "jsokcevic",
+      "target": "ticarter",
+      "value": 4
+    },
+    {
+      "source": "maddie",
+      "target": "tep",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "tommy",
+      "value": 21
+    },
+    {
+      "source": "giles",
+      "target": "neha",
+      "value": 2
+    },
+    {
+      "source": "jma",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "ileitch",
+      "target": "peter",
+      "value": 4
+    },
+    {
+      "source": "marianosimone",
+      "target": "tli",
+      "value": 12
+    },
+    {
+      "source": "nmcquay",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "wpeng",
+      "value": 11
+    },
+    {
+      "source": "gpantazis",
+      "target": "jorge",
+      "value": 6
+    },
+    {
+      "source": "jorge",
+      "target": "tommy",
+      "value": 5
+    },
+    {
+      "source": "jessie",
+      "target": "mdu",
+      "value": 2
+    },
+    {
+      "source": "mdu",
+      "target": "yeming",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "gpantazis",
+      "value": 2
+    },
+    {
+      "source": "nmcquay",
+      "target": "tcao",
+      "value": 4
+    },
+    {
+      "source": "lingduo.kong",
+      "target": "neha",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "ileitch",
+      "value": 6
+    },
+    {
+      "source": "neha",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "marianosimone",
+      "value": 33
+    },
+    {
+      "source": "giles",
+      "target": "slin",
+      "value": 4
+    },
+    {
+      "source": "slin",
+      "target": "tep",
+      "value": 4
+    },
+    {
+      "source": "dli",
+      "target": "tcao",
+      "value": 2
+    },
+    {
+      "source": "ibabushkin",
+      "target": "marianosimone",
+      "value": 40
+    },
+    {
+      "source": "heidy",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "maddie",
+      "target": "sumit",
+      "value": 3
+    },
+    {
+      "source": "marianosimone",
+      "target": "nmcquay",
+      "value": 6
+    },
+    {
+      "source": "heidy",
+      "target": "jtsay",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "tom",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "weikang",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "xzhang",
+      "value": 3
+    },
+    {
+      "source": "glen",
+      "target": "xfei",
+      "value": 7
+    },
+    {
+      "source": "sumit",
+      "target": "tcao",
+      "value": 7
+    },
+    {
+      "source": "jones",
+      "target": "sding",
+      "value": 11
+    },
+    {
+      "source": "heidy",
+      "target": "ibabushkin",
+      "value": 13
+    },
+    {
+      "source": "evan",
+      "target": "jmikkola",
+      "value": 2
+    },
+    {
+      "source": "hpanchal",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "tli",
+      "value": 4
+    },
+    {
+      "source": "jones",
+      "target": "tcao",
+      "value": 12
+    },
+    {
+      "source": "gpantazis",
+      "target": "heidy",
+      "value": 29
+    },
+    {
+      "source": "hpanchal",
+      "target": "tcao",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "swati",
+      "value": 4
+    },
+    {
+      "source": "gpantazis",
+      "target": "richard",
+      "value": 32
+    },
+    {
+      "source": "maddie",
+      "target": "tgnourse",
+      "value": 12
+    },
+    {
+      "source": "mdu",
+      "target": "sding",
+      "value": 3
+    },
+    {
+      "source": "hpanchal",
+      "target": "xing",
+      "value": 2
+    },
+    {
+      "source": "bharadwaj",
+      "target": "jones",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "giles",
+      "target": "glavelle",
+      "value": 11
+    },
+    {
+      "source": "evan",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "andrewlam",
+      "target": "tli",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "tommy",
+      "value": 43
+    },
+    {
+      "source": "bryan",
+      "target": "glavelle",
+      "value": 44
+    },
+    {
+      "source": "glavelle",
+      "target": "xfei",
+      "value": 4
+    },
+    {
+      "source": "glavelle",
+      "target": "gpantazis",
+      "value": 32
+    },
+    {
+      "source": "glavelle",
+      "target": "serhiy",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "ibabushkin",
+      "value": 6
+    },
+    {
+      "source": "glavelle",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "glen",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "ticarter",
+      "value": 23
+    },
+    {
+      "source": "slin",
+      "target": "slin",
+      "value": 13
+    },
+    {
+      "source": "glavelle",
+      "target": "swati",
+      "value": 3
+    },
+    {
+      "source": "heidy",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "marianosimone",
+      "target": "sumit",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "tracy",
+      "value": 3
+    },
+    {
+      "source": "glavelle",
+      "target": "jtsay",
+      "value": 81
+    },
+    {
+      "source": "carolina",
+      "target": "heidy",
+      "value": 29
+    },
+    {
+      "source": "carolina",
+      "target": "jorge",
+      "value": 2
+    },
+    {
+      "source": "marianosimone",
+      "target": "yinan",
+      "value": 5
+    },
+    {
+      "source": "glavelle",
+      "target": "tep",
+      "value": 7
+    },
+    {
+      "source": "jtsay",
+      "target": "tgnourse",
+      "value": 5
+    },
+    {
+      "source": "carolina",
+      "target": "gpantazis",
+      "value": 4
+    },
+    {
+      "source": "bryan",
+      "target": "swati",
+      "value": 2
+    },
+    {
+      "source": "alex",
+      "target": "glavelle",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "nmcquay",
+      "value": 5
+    },
+    {
+      "source": "banderson",
+      "target": "tommy",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "jsokcevic",
+      "value": 4
+    },
+    {
+      "source": "jmikkola",
+      "target": "tommy",
+      "value": 5
+    },
+    {
+      "source": "jeremye",
+      "target": "jones",
+      "value": 3
+    },
+    {
+      "source": "bryan",
+      "target": "slin",
+      "value": 3
+    },
+    {
+      "source": "jorge",
+      "target": "xing",
+      "value": 12
+    },
+    {
+      "source": "jsokcevic",
+      "target": "tgnourse",
+      "value": 4
+    },
+    {
+      "source": "gpantazis",
+      "target": "tgnourse",
+      "value": 2
+    },
+    {
+      "source": "richard",
+      "target": "tommy",
+      "value": 6
+    },
+    {
+      "source": "glavelle",
+      "target": "jmikkola",
+      "value": 7
+    },
+    {
+      "source": "dkamalov",
+      "target": "marianosimone",
+      "value": 5
+    },
+    {
+      "source": "gpantazis",
+      "target": "nmcquay",
+      "value": 3
+    },
+    {
+      "source": "carolina",
+      "target": "tli",
+      "value": 23
+    },
+    {
+      "source": "bjensen",
+      "target": "ibabushkin",
+      "value": 20
+    },
+    {
+      "source": "bjensen",
+      "target": "heidy",
+      "value": 66
+    },
+    {
+      "source": "bjensen",
+      "target": "carolina",
+      "value": 18
+    },
+    {
+      "source": "bjensen",
+      "target": "richard",
+      "value": 90
+    },
+    {
+      "source": "alex",
+      "target": "kthomas",
+      "value": 7
+    },
+    {
+      "source": "bjensen",
+      "target": "marianosimone",
+      "value": 48
+    },
+    {
+      "source": "bjensen",
+      "target": "glavelle",
+      "value": 58
+    },
+    {
+      "source": "bjensen",
+      "target": "bjensen",
+      "value": 40
+    },
+    {
+      "source": "bjensen",
+      "target": "jmikkola",
+      "value": 5
+    },
+    {
+      "source": "alex",
+      "target": "bjensen",
+      "value": 3
+    },
+    {
+      "source": "jmikkola",
+      "target": "kthomas",
+      "value": 45
+    },
+    {
+      "source": "bjensen",
+      "target": "rvp",
+      "value": 2
+    },
+    {
+      "source": "kthomas",
+      "target": "kthomas",
+      "value": 28
+    },
+    {
+      "source": "kthomas",
+      "target": "tim",
+      "value": 7
+    },
+    {
+      "source": "carolina",
+      "target": "mfa",
+      "value": 3
+    },
+    {
+      "source": "bjensen",
+      "target": "gpantazis",
+      "value": 118
+    },
+    {
+      "source": "rvp",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "bjensen",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "slin",
+      "value": 6
+    },
+    {
+      "source": "glavelle",
+      "target": "glavelle",
+      "value": 34
+    },
+    {
+      "source": "tim",
+      "target": "xing",
+      "value": 3
+    },
+    {
+      "source": "felipe",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "tim",
+      "value": 10
+    },
+    {
+      "source": "kthomas",
+      "target": "serhiy",
+      "value": 4
+    },
+    {
+      "source": "hpanchal",
+      "target": "mfa",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "peter",
+      "value": 8
+    },
+    {
+      "source": "bjensen",
+      "target": "tommy",
+      "value": 11
+    },
+    {
+      "source": "glavelle",
+      "target": "tgnourse",
+      "value": 5
+    },
+    {
+      "source": "gpantazis",
+      "target": "kthomas",
+      "value": 6
+    },
+    {
+      "source": "vduong",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "jiang",
+      "target": "jmikkola",
+      "value": 18
+    },
+    {
+      "source": "alex",
+      "target": "jiang",
+      "value": 22
+    },
+    {
+      "source": "kthomas",
+      "target": "xfei",
+      "value": 104
+    },
+    {
+      "source": "jiang",
+      "target": "marianosimone",
+      "value": 68
+    },
+    {
+      "source": "bjensen",
+      "target": "ticarter",
+      "value": 12
+    },
+    {
+      "source": "jtsay",
+      "target": "tim",
+      "value": 4
+    },
+    {
+      "source": "gpantazis",
+      "target": "slin",
+      "value": 3
+    },
+    {
+      "source": "alex",
+      "target": "rgonzalez",
+      "value": 2
+    },
+    {
+      "source": "lgong",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "nshetty",
+      "target": "tli",
+      "value": 2
+    },
+    {
+      "source": "glen",
+      "target": "tommy",
+      "value": 3
+    },
+    {
+      "source": "bjensen",
+      "target": "kthomas",
+      "value": 4
+    },
+    {
+      "source": "gpantazis",
+      "target": "xfei",
+      "value": 13
+    },
+    {
+      "source": "jeremye",
+      "target": "kthomas",
+      "value": 2
+    },
+    {
+      "source": "kthomas",
+      "target": "richard",
+      "value": 5
+    },
+    {
+      "source": "gpantazis",
+      "target": "jiang",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "vicliu",
+      "value": 2
+    },
+    {
+      "source": "bjensen",
+      "target": "tli",
+      "value": 13
+    },
+    {
+      "source": "carolina",
+      "target": "jiang",
+      "value": 11
+    },
+    {
+      "source": "heidy",
+      "target": "jorge",
+      "value": 3
+    },
+    {
+      "source": "jiang",
+      "target": "jsokcevic",
+      "value": 6
+    },
+    {
+      "source": "jiang",
+      "target": "jiang",
+      "value": 19
+    },
+    {
+      "source": "bjensen",
+      "target": "jones",
+      "value": 5
+    },
+    {
+      "source": "efujimoto",
+      "target": "tgnourse",
+      "value": 3
+    },
+    {
+      "source": "tim",
+      "target": "tommy",
+      "value": 14
+    },
+    {
+      "source": "tgnourse",
+      "target": "tommy",
+      "value": 5
+    },
+    {
+      "source": "richard",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "dkamalov",
+      "target": "glavelle",
+      "value": 3
+    },
+    {
+      "source": "bjensen",
+      "target": "glen",
+      "value": 2
+    },
+    {
+      "source": "jiang",
+      "target": "nmcquay",
+      "value": 29
+    },
+    {
+      "source": "jsokcevic",
+      "target": "wpeng",
+      "value": 9
+    },
+    {
+      "source": "kthomas",
+      "target": "tommy",
+      "value": 3
+    },
+    {
+      "source": "bjensen",
+      "target": "tim",
+      "value": 5
+    },
+    {
+      "source": "jones",
+      "target": "tommy",
+      "value": 4
+    },
+    {
+      "source": "zim",
+      "target": "zim",
+      "value": 2
+    },
+    {
+      "source": "bjensen",
+      "target": "jorge",
+      "value": 6
+    },
+    {
+      "source": "banderson",
+      "target": "xing",
+      "value": 3
+    },
+    {
+      "source": "jiang",
+      "target": "richard",
+      "value": 3
+    },
+    {
+      "source": "bjensen",
+      "target": "xfei",
+      "value": 4
+    },
+    {
+      "source": "ileitch",
+      "target": "mfa",
+      "value": 2
+    },
+    {
+      "source": "kthomas",
+      "target": "ticarter",
+      "value": 18
+    },
+    {
+      "source": "peter",
+      "target": "slin",
+      "value": 4
+    },
+    {
+      "source": "jtsay",
+      "target": "zim",
+      "value": 11
+    },
+    {
+      "source": "jeremye",
+      "target": "xfei",
+      "value": 5
+    },
+    {
+      "source": "jmikkola",
+      "target": "zim",
+      "value": 16
+    },
+    {
+      "source": "jiang",
+      "target": "mfa",
+      "value": 2
+    },
+    {
+      "source": "banderson",
+      "target": "vicliu",
+      "value": 3
+    },
+    {
+      "source": "glavelle",
+      "target": "marianosimone",
+      "value": 3
+    },
+    {
+      "source": "maddie",
+      "target": "tpan",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "rvp",
+      "target": "tgnourse",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "richard",
+      "value": 4
+    },
+    {
+      "source": "carolina",
+      "target": "ibabushkin",
+      "value": 24
+    },
+    {
+      "source": "glavelle",
+      "target": "zim",
+      "value": 25
+    },
+    {
+      "source": "alex",
+      "target": "zim",
+      "value": 24
+    },
+    {
+      "source": "ileitch",
+      "target": "ileitch",
+      "value": 2
+    },
+    {
+      "source": "jorge",
+      "target": "jtsay",
+      "value": 3
+    },
+    {
+      "source": "gpantazis",
+      "target": "jtsay",
+      "value": 5
+    },
+    {
+      "source": "jorge",
+      "target": "wpeng",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "jorge",
+      "value": 4
+    },
+    {
+      "source": "glavelle",
+      "target": "tcao",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "xin",
+      "value": 2
+    },
+    {
+      "source": "nmcquay",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "jones",
+      "target": "richard",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "rgonzalez",
+      "value": 5
+    },
+    {
+      "source": "maddie",
+      "target": "ticarter",
+      "value": 3
+    },
+    {
+      "source": "efujimoto",
+      "target": "mfa",
+      "value": 3
+    },
+    {
+      "source": "heidy",
+      "target": "jiang",
+      "value": 5
+    },
+    {
+      "source": "ikhavkin",
+      "target": "jeremye",
+      "value": 2
+    },
+    {
+      "source": "asekine",
+      "target": "dkamalov",
+      "value": 2
+    },
+    {
+      "source": "dkamalov",
+      "target": "dkamalov",
+      "value": 3
+    },
+    {
+      "source": "banderson",
+      "target": "zim",
+      "value": 9
+    },
+    {
+      "source": "dkamalov",
+      "target": "zim",
+      "value": 2
+    },
+    {
+      "source": "tommy",
+      "target": "walter",
+      "value": 2
+    },
+    {
+      "source": "peter",
+      "target": "zim",
+      "value": 3
+    },
+    {
+      "source": "tommy",
+      "target": "zim",
+      "value": 4
+    },
+    {
+      "source": "efujimoto",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "jsokcevic",
+      "value": 3
+    },
+    {
+      "source": "carolina",
+      "target": "jkirk",
+      "value": 2
+    },
+    {
+      "source": "jsokcevic",
+      "target": "zim",
+      "value": 3
+    },
+    {
+      "source": "mfa",
+      "target": "sding",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "walter",
+      "value": 3
+    },
+    {
+      "source": "ibabushkin",
+      "target": "jiang",
+      "value": 4
+    },
+    {
+      "source": "peter",
+      "target": "ticarter",
+      "value": 2
+    },
+    {
+      "source": "gpantazis",
+      "target": "jones",
+      "value": 2
+    },
+    {
+      "source": "efujimoto",
+      "target": "kthomas",
+      "value": 3
+    },
+    {
+      "source": "dkamalov",
+      "target": "xfei",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "peter",
+      "value": 2
+    },
+    {
+      "source": "slin",
+      "target": "zim",
+      "value": 2
+    },
+    {
+      "source": "jtsay",
+      "target": "slin",
+      "value": 3
+    },
+    {
+      "source": "jeremye",
+      "target": "slin",
+      "value": 2
+    },
+    {
+      "source": "rgonzalez",
+      "target": "vduong",
+      "value": 2
+    },
+    {
+      "source": "ticarter",
+      "target": "xing",
+      "value": 3
+    },
+    {
+      "source": "maddie",
+      "target": "xing",
+      "value": 2
+    },
+    {
+      "source": "walter",
+      "target": "walter",
+      "value": 2
+    },
+    {
+      "source": "kthomas",
+      "target": "seamus",
+      "value": 10
+    },
+    {
+      "source": "gpantazis",
+      "target": "seamus",
+      "value": 2
+    },
+    {
+      "source": "glavelle",
+      "target": "maddie",
+      "value": 2
+    },
+    {
+      "source": "peter",
+      "target": "seamus",
+      "value": 3
+    },
+    {
+      "source": "seamus",
+      "target": "xfei",
+      "value": 16
+    },
+    {
+      "source": "seamus",
+      "target": "seamus",
+      "value": 10
+    },
+    {
+      "source": "seamus",
+      "target": "tim",
+      "value": 11
+    },
+    {
+      "source": "seamus",
+      "target": "ticarter",
+      "value": 17
+    },
+    {
+      "source": "seamus",
+      "target": "zim",
+      "value": 2
+    },
+    {
+      "source": "seamus",
+      "target": "tommy",
+      "value": 3
+    },
+    {
+      "source": "chris",
+      "target": "eric",
+      "value": 2
+    }
+  ]
+}
